@@ -1,0 +1,5042 @@
+{
+  "medications": [
+    {
+      "dci": "Acénocoumarol",
+      "commercial": [
+        "Sintrom"
+      ],
+      "category": "Anticoagulant",
+      "imageUrls": [
+        "https://i.imgur.com/62klMgM.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Acétazolamide",
+      "commercial": [
+        "Diamox"
+      ],
+      "category": "Diurétique",
+      "imageUrls": [
+        "https://i.imgur.com/lpC3ytS.png",
+        "https://i.imgur.com/wbJDg3g.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Poudre pour solution injectable"
+    },
+    {
+      "dci": "Thiamphénicol",
+      "commercial": [
+        "Fluimucil"
+      ],
+      "category": "Mucolytique",
+      "imageUrls": [
+        "https://i.imgur.com/rLPiYVL.png"
+      ],
+      "pharmaceuticalForm": "Solution pour inhalation/nébulisation"
+    },
+    {
+      "dci": "Acétylcystéine",
+      "commercial": [
+        "Lysomucil"
+      ],
+      "category": "Mucolytique",
+      "imageUrls": [
+        "https://i.imgur.com/DcXAjIw.png",
+        "https://i.imgur.com/NpUO7k4.png",
+        "https://i.imgur.com/K9KUhci.png",
+        "https://i.imgur.com/5jdB74k.png",
+        "https://i.imgur.com/lSI7BTI.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Comprimés effervescents, Sirop, Sirop, Sachet"
+    },
+    {
+      "dci": "Carbocistéine",
+      "commercial": [
+        "Siroxyl"
+      ],
+      "category": "Mucolytique",
+      "imageUrls": [
+        "https://i.imgur.com/jcrGZDx.png"
+      ],
+      "pharmaceuticalForm": "Sirop"
+    },
+    {
+      "dci": "Acide acétylsalicylique",
+      "commercial": [
+        "Asa"
+      ],
+      "category": "Antalgique",
+      "imageUrls": [
+        "https://i.imgur.com/RXvJzIJ.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Acide acétylsalicylique",
+      "commercial": [
+        "Asaflow"
+      ],
+      "category": "Antiagrégant plaquettaire",
+      "imageUrls": [
+        "https://i.imgur.com/PzQP6eN.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Acide acétylsalicylique",
+      "commercial": [
+        "Sedergine"
+      ],
+      "category": "Antalgique",
+      "imageUrls": [
+        "https://i.imgur.com/jBgRI0R.png"
+      ],
+      "pharmaceuticalForm": "Comprimés effervescents"
+    },
+    {
+      "dci": "Acide bempédoïque",
+      "commercial": [
+        "Nilemdo"
+      ],
+      "category": "Hypolipémiant",
+      "imageUrls": [
+        "https://i.imgur.com/3nDe11w.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Acide bempédoïque + ézétimibe",
+      "commercial": [
+        "Nustendi"
+      ],
+      "category": "Hypolipémiant",
+      "imageUrls": [
+        "https://i.imgur.com/Y2dAsyH.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Acide folique",
+      "commercial": [
+        "Folavit"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/ALo63rR.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Acide fusidique",
+      "commercial": [
+        "Fucidin"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/YETemIk.png",
+        "https://i.imgur.com/unQNbQx.png"
+      ],
+      "pharmaceuticalForm": "Crème, Pommade"
+    },
+    {
+      "dci": "Flucloxacilline",
+      "commercial": [
+        "Staphycid"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/rQ9cb6m.png",
+        "https://i.imgur.com/LTOc1Uw.png"
+      ],
+      "pharmaceuticalForm": "Gélules, Poudre pour sirop"
+    },
+    {
+      "dci": "Acide fusidique + bétaméthasone",
+      "commercial": [
+        "Fucicort"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/PCTbHP3.png"
+      ],
+      "pharmaceuticalForm": "Crème"
+    },
+    {
+      "dci": "Acide hyaluronique",
+      "commercial": [
+        "Gengigel"
+      ],
+      "category": "Soin bucco-dentaire",
+      "imageUrls": [
+        "https://i.imgur.com/2dbh5sl.png",
+        "https://i.imgur.com/fzx9RG3.png",
+        "https://i.imgur.com/Kly24DJ.png"
+      ],
+      "pharmaceuticalForm": "Gel, Bain de bouche, Spray buccal"
+    },
+    {
+      "dci": "Acide salicylique",
+      "commercial": [
+        "Aporil"
+      ],
+      "category": "Cicatrisant et soin cutané",
+      "imageUrls": [
+        "https://i.imgur.com/mNfmMT0.png"
+      ],
+      "pharmaceuticalForm": "Solution cutanée"
+    },
+    {
+      "dci": "Acide tranexamique",
+      "commercial": [
+        "Exacyl"
+      ],
+      "category": "Antihémorragique",
+      "imageUrls": [
+        "https://i.imgur.com/rBg95bZ.png",
+        "https://i.imgur.com/yDQ8dZ7.png",
+        "https://i.imgur.com/d0zvteI.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Solution buvable, Solution injectable"
+    },
+    {
+      "dci": "Acides aminés + vitamines",
+      "commercial": [
+        "Revitalose"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/lPBWcBh.png"
+      ],
+      "pharmaceuticalForm": "Solution buvable"
+    },
+    {
+      "dci": "Agents nettoyants",
+      "commercial": [
+        "Corega"
+      ],
+      "category": "Soin bucco-dentaire",
+      "imageUrls": [
+        "https://i.imgur.com/xuK5CGY.png"
+      ],
+      "pharmaceuticalForm": "Crème"
+    },
+    {
+      "dci": "Alginate de sodium + bicarbonate",
+      "commercial": [
+        "Gaviscon"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/26Yz7bk.png",
+        "https://i.imgur.com/E0bb7EM.png",
+        "https://i.imgur.com/zkYGjWT.png",
+        "https://i.imgur.com/OrStMMQ.png",
+        "https://i.imgur.com/827YKqd.png",
+        "https://i.imgur.com/tNdkGqX.png"
+      ],
+      "pharmaceuticalForm": "Comprimés à croquer, Comprimés à croquer, Sachet, Sirop, Sirop, Sirop"
+    },
+    {
+      "dci": "Prothipendyl",
+      "commercial": [
+        "Dominal"
+      ],
+      "category": "Anxiolytique",
+      "imageUrls": [
+        "https://i.imgur.com/Sj40OXL.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Alizapride",
+      "commercial": [
+        "Litican"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/bO1dL4T.png",
+        "https://i.imgur.com/3077QMB.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Solution injectable"
+    },
+    {
+      "dci": "Allopurinol",
+      "commercial": [
+        "Zyloric"
+      ],
+      "category": "Anti-goutteux",
+      "imageUrls": [
+        "https://i.imgur.com/AS28AT8.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Alprazolam",
+      "commercial": [
+        "Xanax"
+      ],
+      "category": "Anxiolytique",
+      "imageUrls": [
+        "https://i.imgur.com/U10lo5j.png",
+        "https://i.imgur.com/ZxuI4RU.png",
+        "https://i.imgur.com/IJuIG25.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Comprimés, Solution buvable en gouttes"
+    },
+    {
+      "dci": "Bromhexine ou guaifénésine ou thym ou codéine",
+      "commercial": [
+        "Toularynx"
+      ],
+      "category": "Antitussif",
+      "imageUrls": [
+        "https://i.imgur.com/pFObbvN.png",
+        "https://i.imgur.com/lN39tTu.png",
+        "https://i.imgur.com/KG91Zk5.png",
+        "https://i.imgur.com/sdeCv1h.png",
+        "https://i.imgur.com/5Lm7Vtj.png",
+        "https://i.imgur.com/lBHr3dW.png",
+        "https://i.imgur.com/z8edTyM.png"
+      ],
+      "pharmaceuticalForm": "Sirop, Sirop, Sirop, Sirop, Sirop, Sirop, Sirop"
+    },
+    {
+      "dci": "Amiodarone",
+      "commercial": [
+        "Cordarone"
+      ],
+      "category": "Antiarythmique",
+      "imageUrls": [
+        "https://i.imgur.com/Cx9XrmN.png",
+        "https://i.imgur.com/i9UwKwo.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Solution injectable"
+    },
+    {
+      "dci": "Amitriptyline",
+      "commercial": [
+        "Redomex"
+      ],
+      "category": "Antidépresseur",
+      "imageUrls": [
+        "https://i.imgur.com/WDN66DD.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Amlodipine",
+      "commercial": [
+        "Amlor"
+      ],
+      "category": "Antihypertenseur",
+      "imageUrls": [
+        "https://i.imgur.com/p6zOa28.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Amoxicilline + acide clavulanique",
+      "commercial": [
+        "Amoxiclav"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/7xYuEH3.png",
+        "https://i.imgur.com/6hoFiXd.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Poudre pour suspension buvable"
+    },
+    {
+      "dci": "Amoxicilline + acide clavulanique",
+      "commercial": [
+        "Augmentin"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/QDMbyzY.png",
+        "https://i.imgur.com/UF5omM6.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Poudre pour suspension buvable"
+    },
+    {
+      "dci": "Amylmétacrésol + alcool dichlorobenzylique (+acide ascorbique) (+lidocaine)",
+      "commercial": [
+        "Strepsils"
+      ],
+      "category": "Antiseptique",
+      "imageUrls": [
+        "https://i.imgur.com/j5aTe9F.png",
+        "https://i.imgur.com/oMYTw8l.png",
+        "https://i.imgur.com/VmT0yRk.png",
+        "https://i.imgur.com/iWV9jt1.png",
+        "https://i.imgur.com/0jG41vu.png",
+        "https://i.imgur.com/ERv5kPC.png",
+        "https://i.imgur.com/2H3sTMY.png"
+      ],
+      "pharmaceuticalForm": "Pastilles, Pastilles, Pastilles, Pastilles, Pastilles, Pastilles, Pastilles, Spray buccal"
+    },
+    {
+      "dci": "Apixaban",
+      "commercial": [
+        "Eliquis"
+      ],
+      "category": "Anticoagulant",
+      "imageUrls": [
+        "https://i.imgur.com/VkUPwie.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Atorvastatine",
+      "commercial": [
+        "Lipitor"
+      ],
+      "category": "Hypolipémiant",
+      "imageUrls": [
+        "https://i.imgur.com/LHhUlwH.png",
+        "https://i.imgur.com/IeL2LvS.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Comprimés à croquer"
+    },
+    {
+      "dci": "Atorvastatine",
+      "commercial": [
+        "Totalip"
+      ],
+      "category": "Hypolipémiant",
+      "imageUrls": [
+        "https://i.imgur.com/a6GPqba.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Azithromycine",
+      "commercial": [
+        "Zitromax"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/DDqvTVt.png",
+        "https://i.imgur.com/3ENq0V6.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Poudre pour sirop"
+    },
+    {
+      "dci": "Bacitracine + polymyxine B",
+      "commercial": [
+        "Neobacitracine"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/b0Jkcds.png"
+      ],
+      "pharmaceuticalForm": "Pommade"
+    },
+    {
+      "dci": "Baclofène",
+      "commercial": [
+        "Lioresal"
+      ],
+      "category": "Myorelaxant",
+      "imageUrls": [
+        "https://i.imgur.com/Xj7enmp.png",
+        "https://i.imgur.com/aFJjLaM.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Solution injectable"
+    },
+    {
+      "dci": "Béclométasone + formotérol",
+      "commercial": [
+        "Inuvair"
+      ],
+      "category": "Corticoïde",
+      "imageUrls": [
+        "https://i.imgur.com/OdoHdBD.png",
+        "https://i.imgur.com/fZeOfnm.png",
+        "https://i.imgur.com/sCzm5P4.png",
+        "https://i.imgur.com/XVyOqqo.png"
+      ],
+      "pharmaceuticalForm": "Solution pour inhalation, Poudre pour inhalation, Solution pour inhalation, Poudre pour inhalation"
+    },
+    {
+      "dci": "Béclométasone + formotérol + glycopyrronium",
+      "commercial": [
+        "Trimbow"
+      ],
+      "category": "Bronchodilatateur",
+      "imageUrls": [
+        "https://i.imgur.com/6a02Msx.png",
+        "https://i.imgur.com/Yygyb8i.png",
+        "https://i.imgur.com/s6lhU3v.png"
+      ],
+      "pharmaceuticalForm": "Poudre pour inhalation, Solution pour inhalation, Solution pour inhalation"
+    },
+    {
+      "dci": "Bénazépril",
+      "commercial": [
+        "Fortekor"
+      ],
+      "category": "Vétérinaire",
+      "imageUrls": [
+        "https://i.imgur.com/Nm7cYiE.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Bêtaéthasone + néomycine + polymyxine B",
+      "commercial": [
+        "Sofrasolone"
+      ],
+      "category": "ORL",
+      "imageUrls": [
+        "https://i.imgur.com/em8C3pM.png"
+      ],
+      "pharmaceuticalForm": "Spray nasal"
+    },
+    {
+      "dci": "Bétahistine",
+      "commercial": [
+        "Betaserc"
+      ],
+      "category": "Antivertigineux",
+      "imageUrls": [
+        "https://i.imgur.com/EiZxSkt.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Bétaméthasone",
+      "commercial": [
+        "Diprosone"
+      ],
+      "category": "Corticoïde",
+      "imageUrls": [
+        "https://i.imgur.com/vwwJl1V.png",
+        "https://i.imgur.com/hOUhgbd.png",
+        "https://i.imgur.com/NRpIA9W.png"
+      ],
+      "pharmaceuticalForm": "Crème, Pommade, Solution cutanée"
+    },
+    {
+      "dci": "Bilastine",
+      "commercial": [
+        "Bellozal"
+      ],
+      "category": "Antiallergique",
+      "imageUrls": [
+        "https://i.imgur.com/Z8taOvy.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Bisacodyl ou Picosulfate",
+      "commercial": [
+        "Dulcolax"
+      ],
+      "category": "Laxatif",
+      "imageUrls": [
+        "https://i.imgur.com/jucX16G.png",
+        "https://i.imgur.com/RPoWr0j.png",
+        "https://i.imgur.com/2u3b6EG.png",
+        "https://i.imgur.com/2ul5ttn.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Suppositoire, Solution buvable en gouttes"
+    },
+    {
+      "dci": "Brimonidine",
+      "commercial": [
+        "Alphagan"
+      ],
+      "category": "Ophtalmologie",
+      "imageUrls": [
+        "https://i.imgur.com/dXzgtPb.png"
+      ],
+      "pharmaceuticalForm": "Collyre"
+    },
+    {
+      "dci": "Brinzolamide",
+      "commercial": [
+        "Azopt"
+      ],
+      "category": "Ophtalmologie",
+      "imageUrls": [
+        "https://i.imgur.com/KQCcDIO.png"
+      ],
+      "pharmaceuticalForm": "Collyre"
+    },
+    {
+      "dci": "Bromazépam",
+      "commercial": [
+        "Lexotan"
+      ],
+      "category": "Anxiolytique",
+      "imageUrls": [
+        "https://i.imgur.com/vCDCaGs.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Bromhexine",
+      "commercial": [
+        "Bisolvon"
+      ],
+      "category": "Mucolytique",
+      "imageUrls": [
+        "https://i.imgur.com/CUQYdsQ.png",
+        "https://i.imgur.com/H0oMisV.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Sirop"
+    },
+    {
+      "dci": "Budésonide",
+      "commercial": [
+        "Jorveza"
+      ],
+      "category": "Anti-inflammatoire (AINS)",
+      "imageUrls": [
+        "https://i.imgur.com/yQV2S54.png"
+      ],
+      "pharmaceuticalForm": "Comprimés orodispersibles"
+    },
+    {
+      "dci": "Budésonide + formotérol",
+      "commercial": [
+        "Symbicort"
+      ],
+      "category": "Corticoïde",
+      "imageUrls": [
+        "https://i.imgur.com/yX7KwMn.png",
+        "https://i.imgur.com/BSHaYpN.png"
+      ],
+      "pharmaceuticalForm": "Poudre pour inhalation, Suspension pour inhalation"
+    },
+    {
+      "dci": "Bumétanide",
+      "commercial": [
+        "Burinex"
+      ],
+      "category": "Diurétique",
+      "imageUrls": [
+        "https://i.imgur.com/Df6DekM.png",
+        "https://i.imgur.com/HfNiXMN.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Solution injectable"
+    },
+    {
+      "dci": "Buprénorphine",
+      "commercial": [
+        "Transtec"
+      ],
+      "category": "Antalgique opioïde",
+      "imageUrls": [
+        "https://i.imgur.com/wPt7Trm.png"
+      ],
+      "pharmaceuticalForm": "Patch"
+    },
+    {
+      "dci": "Canagliflozine",
+      "commercial": [
+        "Invokana"
+      ],
+      "category": "Antidiabétique",
+      "imageUrls": [
+        "https://i.imgur.com/3Ai6ZWg.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Carbamazépine",
+      "commercial": [
+        "Tegretol"
+      ],
+      "category": "Antiépileptique",
+      "imageUrls": [
+        "https://i.imgur.com/verUwa8.png",
+        "https://i.imgur.com/OwvwWAj.png",
+        "https://i.imgur.com/YGzHHuu.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Comprimés, Sirop"
+    },
+    {
+      "dci": "Phényléphrine + chlorphénamine",
+      "commercial": [
+        "Rhinathiol antirhinitis"
+      ],
+      "category": "Décongestionnant nasal",
+      "imageUrls": [
+        "https://i.imgur.com/muxSrNI.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Carbonate de calcium + magnésium",
+      "commercial": [
+        "Rennie"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/joBwSbA.png"
+      ],
+      "pharmaceuticalForm": "Comprimés à croquer"
+    },
+    {
+      "dci": "Carvédilol",
+      "commercial": [
+        "Kredex"
+      ],
+      "category": "Antihypertenseur",
+      "imageUrls": [
+        "https://i.imgur.com/jfa0LiH.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Céfuroxime",
+      "commercial": [
+        "Zinnat"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/Lgc9Ml6.png",
+        "https://i.imgur.com/e99MDxU.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Sirop"
+    },
+    {
+      "dci": "Cétirizine",
+      "commercial": [
+        "Zyrtec"
+      ],
+      "category": "Antiallergique",
+      "imageUrls": [
+        "https://i.imgur.com/yfqrlQG.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Chlorhexidine",
+      "commercial": [
+        "Hibidil"
+      ],
+      "category": "Antiseptique",
+      "imageUrls": [
+        "https://i.imgur.com/byGeift.png"
+      ],
+      "pharmaceuticalForm": "Solution cutanée"
+    },
+    {
+      "dci": "Chlorhexidine + chlorobutanol",
+      "commercial": [
+        "Eludril"
+      ],
+      "category": "Antiseptique",
+      "imageUrls": [
+        "https://i.imgur.com/Drlgaxy.png"
+      ],
+      "pharmaceuticalForm": "Bain de bouche"
+    },
+    {
+      "dci": "Chlorhexidine + chlorobutanol",
+      "commercial": [
+        "Flamirins"
+      ],
+      "category": "Antiseptique",
+      "imageUrls": [
+        "https://i.imgur.com/51nmOx7.png"
+      ],
+      "pharmaceuticalForm": "Spray"
+    },
+    {
+      "dci": "Chlorhexidine + lidocaïne",
+      "commercial": [
+        "Colludol"
+      ],
+      "category": "Antiseptique",
+      "imageUrls": [
+        "https://i.imgur.com/bt0rNFm.png"
+      ],
+      "pharmaceuticalForm": "Spray buccal"
+    },
+    {
+      "dci": "Chlorure de sodium",
+      "commercial": [
+        "Rhinicur"
+      ],
+      "category": "Décongestionnant nasal",
+      "imageUrls": [
+        "https://i.imgur.com/0joHNqg.png"
+      ],
+      "pharmaceuticalForm": "Solution nasal"
+    },
+    {
+      "dci": "Cinnarizine + diménhydrinate",
+      "commercial": [
+        "Arlevert"
+      ],
+      "category": "Antivertigineux",
+      "imageUrls": [
+        "https://i.imgur.com/GRb0QzJ.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Ciprofloxacine",
+      "commercial": [
+        "Ciloxan"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/jpwgZ52.png"
+      ],
+      "pharmaceuticalForm": "Gouttes auriculaires et collyre"
+    },
+    {
+      "dci": "Ciprofloxacine",
+      "commercial": [
+        "Ciproxine"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/lDp0sYM.png",
+        "https://i.imgur.com/B3j8lrl.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Suspension buvable"
+    },
+    {
+      "dci": "Citrate de sodium + laurylsulfoacétate",
+      "commercial": [
+        "Microlax"
+      ],
+      "category": "Laxatif",
+      "imageUrls": [
+        "https://i.imgur.com/PfIFdkd.png"
+      ],
+      "pharmaceuticalForm": "Solution rectale"
+    },
+    {
+      "dci": "Clarithromycine",
+      "commercial": [
+        "Biclar"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/3XwtkUR.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Clindamycine",
+      "commercial": [
+        "Dalacin"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/hprIzL6.png",
+        "https://i.imgur.com/DkIKdK3.png",
+        "https://i.imgur.com/jCeD53d.png"
+      ],
+      "pharmaceuticalForm": "Gélules, Solution injectable, Crème"
+    },
+    {
+      "dci": "Clonazépam",
+      "commercial": [
+        "Rivotril"
+      ],
+      "category": "Anxiolytique",
+      "imageUrls": [
+        "https://i.imgur.com/ZGvDJJI.png",
+        "https://i.imgur.com/WxT3chz.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Solution buvable en gouttes"
+    },
+    {
+      "dci": "Clorazépate dipotassique",
+      "commercial": [
+        "Clozan"
+      ],
+      "category": "Anxiolytique",
+      "imageUrls": [
+        "https://i.imgur.com/Q1HMrzU.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Codéine",
+      "commercial": [
+        "Paracodine"
+      ],
+      "category": "Antitussif",
+      "imageUrls": [
+        "https://i.imgur.com/PbXqXOY.png",
+        "https://i.imgur.com/NIlOrVj.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Sirop"
+    },
+    {
+      "dci": "Complexe de vitamines B",
+      "commercial": [
+        "Befact"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/DMrT81w.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Complexe homéopathique",
+      "commercial": [
+        "Traumeel"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/yCPoXFU.png",
+        "https://i.imgur.com/lDWZqXx.png",
+        "https://i.imgur.com/aPVraOl.png",
+        "https://i.imgur.com/JGZt7iW.png",
+        "https://i.imgur.com/yzijc7W.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Solution buvable en gouttes, Solution injectable, Crème, Gel"
+    },
+    {
+      "dci": "Complexe vitamines B1-B6-B12",
+      "commercial": [
+        "Tribvit"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/21DwmFq.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Dapagliflozine",
+      "commercial": [
+        "Forxiga"
+      ],
+      "category": "Antidiabétique",
+      "imageUrls": [
+        "https://i.imgur.com/RqCCQ3v.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Desloratadine",
+      "commercial": [
+        "Aerius"
+      ],
+      "category": "Antiallergique",
+      "imageUrls": [
+        "https://i.imgur.com/yWzjEDo.png",
+        "https://i.imgur.com/bxgUrXd.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Sirop"
+    },
+    {
+      "dci": "Dexaméthasone + néomycine + polymyxine B",
+      "commercial": [
+        "Maxitrol"
+      ],
+      "category": "Anti-inflammatoire (AINS)",
+      "imageUrls": [
+        "https://i.imgur.com/huYMe68.png",
+        "https://i.imgur.com/Ymlbobk.png"
+      ],
+      "pharmaceuticalForm": "Collyre, Pommade ophtalmique"
+    },
+    {
+      "dci": "Dextrométhorphane ou guaifénésine",
+      "commercial": [
+        "Bronchosedal"
+      ],
+      "category": "Antitussif",
+      "imageUrls": [
+        "https://i.imgur.com/NryWv4k.png",
+        "https://i.imgur.com/Q7yByED.png",
+        "https://i.imgur.com/FZUOnjT.png"
+      ],
+      "pharmaceuticalForm": "Sirop, Sirop, Sirop"
+    },
+    {
+      "dci": "Diclofénac",
+      "commercial": [
+        "Cataflam"
+      ],
+      "category": "Anti-inflammatoire (AINS)",
+      "imageUrls": [
+        "https://i.imgur.com/I3KqwWl.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Agent chauffant",
+      "commercial": [
+        "Flexicream"
+      ],
+      "category": "Anti-inflammatoire (AINS)",
+      "imageUrls": [
+        "https://i.imgur.com/PuvIPLO.png"
+      ],
+      "pharmaceuticalForm": "Crème"
+    },
+    {
+      "dci": "Digluconate de chlorhexidine",
+      "commercial": [
+        "Corsodyl"
+      ],
+      "category": "Antiseptique",
+      "imageUrls": [
+        "https://i.imgur.com/LKX3ZDV.png"
+      ],
+      "pharmaceuticalForm": "Bain de bouche"
+    },
+    {
+      "dci": "Diltiazem",
+      "commercial": [
+        "Tildiem"
+      ],
+      "category": "Antihypertenseur",
+      "imageUrls": [
+        "https://i.imgur.com/rvrvhQ1.png",
+        "https://i.imgur.com/xHJIPDk.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Gélules"
+    },
+    {
+      "dci": "Diméthylbenzène + terpène",
+      "commercial": [
+        "Cerulyx"
+      ],
+      "category": "ORL",
+      "imageUrls": [
+        "https://i.imgur.com/ITIgc4B.png"
+      ],
+      "pharmaceuticalForm": "Gouttes auriculaires"
+    },
+    {
+      "dci": "Dimétindène",
+      "commercial": [
+        "Fenistil"
+      ],
+      "category": "Antiallergique",
+      "imageUrls": [
+        "https://i.imgur.com/hwv6wkB.png"
+      ],
+      "pharmaceuticalForm": "Solution buvable en gouttes"
+    },
+    {
+      "dci": "Diosmine + hespéridine",
+      "commercial": [
+        "Daflon"
+      ],
+      "category": "Veinotonique",
+      "imageUrls": [
+        "https://i.imgur.com/sbS1Tcu.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Dompéridone",
+      "commercial": [
+        "Motilium"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/dJV4HXT.png",
+        "https://i.imgur.com/wXcSbZz.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Comprimés orodispersibles"
+    },
+    {
+      "dci": "Dorzolamide + timolol",
+      "commercial": [
+        "Cosopt"
+      ],
+      "category": "Ophtalmologie",
+      "imageUrls": [
+        "https://i.imgur.com/jHFREw4.png"
+      ],
+      "pharmaceuticalForm": "Collyre"
+    },
+    {
+      "dci": "Dulaglutide",
+      "commercial": [
+        "Trulicity"
+      ],
+      "category": "Antidiabétique",
+      "imageUrls": [
+        "https://i.imgur.com/tgOBjAa.png"
+      ],
+      "pharmaceuticalForm": "Solution injectable"
+    },
+    {
+      "dci": "Eau de mer stérile",
+      "commercial": [
+        "Sterimar"
+      ],
+      "category": "Décongestionnant nasal",
+      "imageUrls": [
+        "https://i.imgur.com/Y0JCvqc.png",
+        "https://i.imgur.com/JkseHWa.png",
+        "https://i.imgur.com/7Rdp0sM.png",
+        "https://i.imgur.com/53cKuo8.png"
+      ],
+      "pharmaceuticalForm": "Spray nasal, Spray nasal, Spray nasal, Spray nasal"
+    },
+    {
+      "dci": "Edoxaban",
+      "commercial": [
+        "Lixiana"
+      ],
+      "category": "Anticoagulant",
+      "imageUrls": [
+        "https://i.imgur.com/U60MOrC.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Empagliflozine",
+      "commercial": [
+        "Jardiance"
+      ],
+      "category": "Antidiabétique",
+      "imageUrls": [
+        "https://i.imgur.com/uYfIQ1C.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Rosuvastatine + ézétimibe",
+      "commercial": [
+        "Suvezen"
+      ],
+      "category": "Antidiabétique",
+      "imageUrls": [
+        "https://i.imgur.com/DOuZS4U.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Énoxaparine",
+      "commercial": [
+        "Clexane"
+      ],
+      "category": "Anticoagulant",
+      "imageUrls": [
+        "https://i.imgur.com/WkCWpOa.png"
+      ],
+      "pharmaceuticalForm": "Solution injectable"
+    },
+    {
+      "dci": "Enzymes + alginate",
+      "commercial": [
+        "Flaminal"
+      ],
+      "category": "Cicatrisant et soin cutané",
+      "imageUrls": [
+        "https://i.imgur.com/sOlXgLu.png",
+        "https://i.imgur.com/Pe0GE1M.png"
+      ],
+      "pharmaceuticalForm": "Gel, Gel"
+    },
+    {
+      "dci": "Enzymes pancréatiques (pancréatine)",
+      "commercial": [
+        "Creon"
+      ],
+      "category": "Enzymes digestives",
+      "imageUrls": [
+        "https://i.imgur.com/sNE4XZr.png"
+      ],
+      "pharmaceuticalForm": "Gélules"
+    },
+    {
+      "dci": "Escine",
+      "commercial": [
+        "Reparil"
+      ],
+      "category": "Anti-inflammatoire (AINS)",
+      "imageUrls": [
+        "https://i.imgur.com/rGtWf6Y.png",
+        "https://i.imgur.com/I9vt4JN.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Gel"
+    },
+    {
+      "dci": "Escitalopram",
+      "commercial": [
+        "Sipralexa"
+      ],
+      "category": "Antidépresseur",
+      "imageUrls": [
+        "https://i.imgur.com/tEa3XoV.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Ésoméprazole",
+      "commercial": [
+        "Nexiam"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/JTWqYle.png",
+        "https://i.imgur.com/du400A1.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Poudre pour solution injectable"
+    },
+    {
+      "dci": "Étiléfrine",
+      "commercial": [
+        "Effortil"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/OquhYQF.png",
+        "https://i.imgur.com/yxKbUns.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Solution buvable"
+    },
+    {
+      "dci": "Étoriocoxib",
+      "commercial": [
+        "Arcoxia"
+      ],
+      "category": "Anti-inflammatoire (AINS)",
+      "imageUrls": [
+        "https://i.imgur.com/z1CRpG2.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Extrait de canneberge",
+      "commercial": [
+        "Uri-Cran"
+      ],
+      "category": "Urologie",
+      "imageUrls": [
+        "https://i.imgur.com/EO3ZkVi.png",
+        "https://i.imgur.com/o2chYrv.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Gélules"
+    },
+    {
+      "dci": "Extrait de gingembre",
+      "commercial": [
+        "Antimetil"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/1SK8xy0.png",
+        "https://i.imgur.com/Hx5dmxc.png",
+        "https://i.imgur.com/z8lnKLY.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Sirop, Gommes"
+    },
+    {
+      "dci": "Extraits végétaux + borate de sodium",
+      "commercial": [
+        "Homéoplasmine"
+      ],
+      "category": "Cicatrisant et soin cutané",
+      "imageUrls": [
+        "https://i.imgur.com/IBMPPZE.png"
+      ],
+      "pharmaceuticalForm": "Pommade"
+    },
+    {
+      "dci": "Ézétimibe + atorvastatine",
+      "commercial": [
+        "Atozet"
+      ],
+      "category": "Hypolipémiant",
+      "imageUrls": [
+        "https://i.imgur.com/R4oR3f1.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Fénofibrate",
+      "commercial": [
+        "Lipanthylano"
+      ],
+      "category": "Hypolipémiant",
+      "imageUrls": [
+        "https://i.imgur.com/PSH6Q43.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Fentanyl",
+      "commercial": [
+        "Durogesic"
+      ],
+      "category": "Antalgique opioïde",
+      "imageUrls": [
+        "https://i.imgur.com/8B4VqxJ.png"
+      ],
+      "pharmaceuticalForm": "Patch"
+    },
+    {
+      "dci": "Fer + vitamines B12 + acide folique",
+      "commercial": [
+        "Ferrodyn"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/e0hQHJU.png"
+      ],
+      "pharmaceuticalForm": "Gélules"
+    },
+    {
+      "dci": "Flécaïnide",
+      "commercial": [
+        "Apocard"
+      ],
+      "category": "Antiarythmique",
+      "imageUrls": [
+        "https://i.imgur.com/HHYJM7u.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Fluocinolone + néomycine + polymyxine B + lidocaïne",
+      "commercial": [
+        "Panotile"
+      ],
+      "category": "ORL",
+      "imageUrls": [
+        "https://i.imgur.com/w5TwR1k.png"
+      ],
+      "pharmaceuticalForm": "Gouttes auriculaires"
+    },
+    {
+      "dci": "Fluocortolone + cinchocaïne",
+      "commercial": [
+        "Scheriproct"
+      ],
+      "category": "Cicatrisant et soin cutané",
+      "imageUrls": [
+        "https://i.imgur.com/nmd9MAP.png"
+      ],
+      "pharmaceuticalForm": "Pommade"
+    },
+    {
+      "dci": "Fluocortolone + lidocaïne",
+      "commercial": [
+        "Trianal"
+      ],
+      "category": "Cicatrisant et soin cutané",
+      "imageUrls": [
+        "https://i.imgur.com/MHk8H7w.png",
+        "https://i.imgur.com/MgqcrKd.png"
+      ],
+      "pharmaceuticalForm": "Pommade, Suppositoire"
+    },
+    {
+      "dci": "Flupentixol + mélitracène",
+      "commercial": [
+        "Deanxit"
+      ],
+      "category": "Anxiolytique",
+      "imageUrls": [
+        "https://i.imgur.com/vYQuqJn.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Flurbiprofène",
+      "commercial": [
+        "Strepfen"
+      ],
+      "category": "Anti-inflammatoire (AINS)",
+      "imageUrls": [
+        "https://i.imgur.com/Q6csTnb.png",
+        "https://i.imgur.com/wl5RA05.png",
+        "https://i.imgur.com/iWV9jt1.png",
+        "https://i.imgur.com/F5BKkjy.png",
+        "https://i.imgur.com/6KG1LVm.png"
+      ],
+      "pharmaceuticalForm": "Pastilles, Pastilles, Pastilles, Spray buccal, Spray buccal"
+    },
+    {
+      "dci": "Fluticasone + vilantérol",
+      "commercial": [
+        "Relvar"
+      ],
+      "category": "Corticoïde",
+      "imageUrls": [
+        "https://i.imgur.com/hqWhOx0.png",
+        "https://i.imgur.com/DaZTaTQ.png",
+        "https://i.imgur.com/AsZSVuJ.png",
+        "https://i.imgur.com/WmzC3IU.png"
+      ],
+      "pharmaceuticalForm": "Poudre pour inhalation, Poudre pour inhalation, Poudre pour inhalation, Poudre pour inhalation"
+    },
+    {
+      "dci": "Fluticasone + vilantérol + uméclidinium",
+      "commercial": [
+        "Trelegy"
+      ],
+      "category": "Bronchodilatateur",
+      "imageUrls": [
+        "https://i.imgur.com/D94tZVL.png",
+        "https://i.imgur.com/DrJOSQ0.png"
+      ],
+      "pharmaceuticalForm": "Poudre pour inhalation, Poudre pour inhalation"
+    },
+    {
+      "dci": "Fosfomycine",
+      "commercial": [
+        "Monuril"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/rY9Lmyo.png"
+      ],
+      "pharmaceuticalForm": "Sachet"
+    },
+    {
+      "dci": "Furoate de fluticasone",
+      "commercial": [
+        "Avamys"
+      ],
+      "category": "Corticoïde",
+      "imageUrls": [
+        "https://i.imgur.com/QY9TIC8.png"
+      ],
+      "pharmaceuticalForm": "Spray nasal"
+    },
+    {
+      "dci": "Furosémide",
+      "commercial": [
+        "Lasix"
+      ],
+      "category": "Antihypertenseur",
+      "imageUrls": [
+        "https://i.imgur.com/InzPyye.png",
+        "https://i.imgur.com/FiqrcXn.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Solution injectable"
+    },
+    {
+      "dci": "Gélatine tanate",
+      "commercial": [
+        "Tasectan"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/RdCdbjP.png",
+        "https://i.imgur.com/fSBBc8K.png"
+      ],
+      "pharmaceuticalForm": "Gélules, Gélules"
+    },
+    {
+      "dci": "Gluconate ferreux",
+      "commercial": [
+        "Losferron"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/D7j1KIt.png"
+      ],
+      "pharmaceuticalForm": "Comprimés effervescents"
+    },
+    {
+      "dci": "Halopéridol",
+      "commercial": [
+        "Haldol"
+      ],
+      "category": "Antipsychotique",
+      "imageUrls": [
+        "https://i.imgur.com/DCzlmr6.png",
+        "https://i.imgur.com/P3jzc4T.png",
+        "https://i.imgur.com/fDX8U1r.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Solution buvable, Solution injectable"
+    },
+    {
+      "dci": "Héparinoïde",
+      "commercial": [
+        "Hirudoid"
+      ],
+      "category": "Anti-inflammatoire (AINS)",
+      "imageUrls": [
+        "https://i.imgur.com/zOSQgKa.png",
+        "https://i.imgur.com/t5Trqve.png"
+      ],
+      "pharmaceuticalForm": "Crème, Gel"
+    },
+    {
+      "dci": "Hexétidine",
+      "commercial": [
+        "Hextril"
+      ],
+      "category": "Antiseptique",
+      "imageUrls": [
+        "https://i.imgur.com/5o9FIsB.png"
+      ],
+      "pharmaceuticalForm": "Bain de bouche"
+    },
+    {
+      "dci": "Huile essentielle de menthe poivrée",
+      "commercial": [
+        "Tempocol"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/lbB66s1.png"
+      ],
+      "pharmaceuticalForm": ""
+    },
+    {
+      "dci": "Hydrogel",
+      "commercial": [
+        "Purilon"
+      ],
+      "category": "Cicatrisant et soin cutané",
+      "imageUrls": [
+        "https://i.imgur.com/6TBfxvU.png"
+      ],
+      "pharmaceuticalForm": "Gel"
+    },
+    {
+      "dci": "Hydrogel (carbomère)",
+      "commercial": [
+        "Flamigel"
+      ],
+      "category": "Cicatrisant et soin cutané",
+      "imageUrls": [
+        "https://i.imgur.com/9pSQLFz.png"
+      ],
+      "pharmaceuticalForm": "Gel"
+    },
+    {
+      "dci": "Hydromorphone",
+      "commercial": [
+        "Palladone"
+      ],
+      "category": "Antalgique opioïde",
+      "imageUrls": [
+        "https://i.imgur.com/acMUuHY.png",
+        "https://i.imgur.com/yEalYnC.png"
+      ],
+      "pharmaceuticalForm": "Gélules, Gélules"
+    },
+    {
+      "dci": "Hydroxycarbamide",
+      "commercial": [
+        "Hydrea"
+      ],
+      "category": "Immunomodulateur",
+      "imageUrls": [
+        "https://i.imgur.com/7dvMVJp.png"
+      ],
+      "pharmaceuticalForm": "Gélules"
+    },
+    {
+      "dci": "Hydroxyzine",
+      "commercial": [
+        "Atarax"
+      ],
+      "category": "Anxiolytique",
+      "imageUrls": [
+        "https://i.imgur.com/l4V4qsc.png",
+        "https://i.imgur.com/7OqkF2b.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Sirop"
+    },
+    {
+      "dci": "Hyoscine butylbromide",
+      "commercial": [
+        "Buscopan"
+      ],
+      "category": "Antispasmodique",
+      "imageUrls": [
+        "https://i.imgur.com/ubaSv3g.png",
+        "https://i.imgur.com/6nuoAUL.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Solution injectable"
+    },
+    {
+      "dci": "Ibuprofène",
+      "commercial": [
+        "Brufen"
+      ],
+      "category": "Anti-inflammatoire (AINS)",
+      "imageUrls": [
+        "https://i.imgur.com/gxUj3Nd.png",
+        "https://i.imgur.com/wrLMtd9.png",
+        "https://i.imgur.com/mthhm4K.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Granules effervescents, Sirop"
+    },
+    {
+      "dci": "Ibuprofène",
+      "commercial": [
+        "Ibuprofen"
+      ],
+      "category": "Anti-inflammatoire (AINS)",
+      "imageUrls": [
+        "https://i.imgur.com/SejKHsE.png",
+        "https://i.imgur.com/QrpiJNa.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Sirop"
+    },
+    {
+      "dci": "Ibuprofène",
+      "commercial": [
+        "Perdofemina"
+      ],
+      "category": "Anti-inflammatoire (AINS)",
+      "imageUrls": [
+        "https://i.imgur.com/V3UfWgr.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Ibuprofène",
+      "commercial": [
+        "Spidifen"
+      ],
+      "category": "Anti-inflammatoire (AINS)",
+      "imageUrls": [
+        "https://i.imgur.com/c40Q3f2.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Ichtammol",
+      "commercial": [
+        "Bithiol"
+      ],
+      "category": "Cicatrisant et soin cutané",
+      "imageUrls": [
+        "https://i.imgur.com/DXIwxNC.png"
+      ],
+      "pharmaceuticalForm": "Pommade"
+    },
+    {
+      "dci": "Indapamide",
+      "commercial": [
+        "Fludex"
+      ],
+      "category": "Antihypertenseur",
+      "imageUrls": [
+        "https://i.imgur.com/I3kOn2w.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Indapamide",
+      "commercial": [
+        "Lodixal"
+      ],
+      "category": "Antihypertenseur",
+      "imageUrls": [
+        "https://i.imgur.com/ybHp3ri.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Indapamide + périndopril",
+      "commercial": [
+        "Nobiretic"
+      ],
+      "category": "Antihypertenseur",
+      "imageUrls": [
+        "https://i.imgur.com/MJne3yP.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Insuline asparte",
+      "commercial": [
+        "Novomix"
+      ],
+      "category": "Antidiabétique",
+      "imageUrls": [
+        "https://i.imgur.com/1NoPGKo.png",
+        "https://i.imgur.com/8GPZBXe.png"
+      ],
+      "pharmaceuticalForm": "Suspension injectable, Suspension injectable"
+    },
+    {
+      "dci": "Insuline glargine",
+      "commercial": [
+        "Lantus"
+      ],
+      "category": "Antidiabétique",
+      "imageUrls": [
+        "https://i.imgur.com/CR6BGjH.png"
+      ],
+      "pharmaceuticalForm": "Solution injectable"
+    },
+    {
+      "dci": "Insuline glargine",
+      "commercial": [
+        "Toujeo"
+      ],
+      "category": "Antidiabétique",
+      "imageUrls": [
+        "https://i.imgur.com/B5TcPAe.png",
+        "https://i.imgur.com/ZVYoZNi.png"
+      ],
+      "pharmaceuticalForm": "Solution injectable, Solution injectable"
+    },
+    {
+      "dci": "Insuline glulisine",
+      "commercial": [
+        "Apidra"
+      ],
+      "category": "Antidiabétique",
+      "imageUrls": [
+        "https://i.imgur.com/UvdBrb9.png"
+      ],
+      "pharmaceuticalForm": "Solution injectable"
+    },
+    {
+      "dci": "Ipratropium",
+      "commercial": [
+        "Atrovent"
+      ],
+      "category": "Bronchodilatateur",
+      "imageUrls": [
+        "https://i.imgur.com/JqvRVdI.png",
+        "https://i.imgur.com/W3AneM9.png"
+      ],
+      "pharmaceuticalForm": "Solution pour nébulisation/inhalation, Solution pour inhalation"
+    },
+    {
+      "dci": "Ipratropium + fénotérol",
+      "commercial": [
+        "Duovent"
+      ],
+      "category": "Bronchodilatateur",
+      "imageUrls": [
+        "https://i.imgur.com/5MRC7Fd.png",
+        "https://i.imgur.com/VEXw8RB.png"
+      ],
+      "pharmaceuticalForm": "Solution pour inhalation, Solution pour nébulisation"
+    },
+    {
+      "dci": "Ipratropium + salbutamol",
+      "commercial": [
+        "Combivent"
+      ],
+      "category": "Bronchodilatateur",
+      "imageUrls": [
+        "https://i.imgur.com/6Akyh3q.png"
+      ],
+      "pharmaceuticalForm": "Solution pour nébulisation/inhalation"
+    },
+    {
+      "dci": "Kétoconazole",
+      "commercial": [
+        "Nizoral"
+      ],
+      "category": "Antifongique",
+      "imageUrls": [
+        "https://i.imgur.com/ONUi1a0.png"
+      ],
+      "pharmaceuticalForm": "Shampoing"
+    },
+    {
+      "dci": "Kétoprofène",
+      "commercial": [
+        "Fastum"
+      ],
+      "category": "Anti-inflammatoire (AINS)",
+      "imageUrls": [
+        "https://i.imgur.com/knIqDJG.png"
+      ],
+      "pharmaceuticalForm": "Gel"
+    },
+    {
+      "dci": "Lactobacillus reuteri",
+      "commercial": [
+        "Protectis"
+      ],
+      "category": "Probiotique",
+      "imageUrls": [
+        "https://i.imgur.com/szQPqLk.png"
+      ],
+      "pharmaceuticalForm": "Comprimés à croquer"
+    },
+    {
+      "dci": "Lactobacillus rhamnosus GG",
+      "commercial": [
+        "Bactiol"
+      ],
+      "category": "Probiotique",
+      "imageUrls": [
+        "https://i.imgur.com/Qz6IZyo.png",
+        "https://i.imgur.com/6sOe7LP.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Sachet"
+    },
+    {
+      "dci": "Lactobacillus rhamnosus GG",
+      "commercial": [
+        "Imutis"
+      ],
+      "category": "Probiotique",
+      "imageUrls": [
+        "https://i.imgur.com/nSHIilA.png"
+      ],
+      "pharmaceuticalForm": "Gélules"
+    },
+    {
+      "dci": "Lactulose",
+      "commercial": [
+        "Bifiteral"
+      ],
+      "category": "Laxatif",
+      "imageUrls": [
+        "https://i.imgur.com/2R15Orp.png"
+      ],
+      "pharmaceuticalForm": "Sirop"
+    },
+    {
+      "dci": "Lactulose",
+      "commercial": [
+        "Duphalac"
+      ],
+      "category": "Laxatif",
+      "imageUrls": [
+        "https://i.imgur.com/9KXKkML.png",
+        "https://i.imgur.com/pww2184.png",
+        "https://i.imgur.com/72EcdXY.png"
+      ],
+      "pharmaceuticalForm": "Sirop, Sachet, Sachet"
+    },
+    {
+      "dci": "Lamotrigine",
+      "commercial": [
+        "Lamictal"
+      ],
+      "category": "Antiépileptique",
+      "imageUrls": [
+        "https://i.imgur.com/t6OHcCZ.png"
+      ],
+      "pharmaceuticalForm": "Comprimés à croquer"
+    },
+    {
+      "dci": "Latanoprost",
+      "commercial": [
+        "Monoprost"
+      ],
+      "category": "Ophtalmologie",
+      "imageUrls": [
+        "https://i.imgur.com/SqEM2fN.png"
+      ],
+      "pharmaceuticalForm": "Collyre"
+    },
+    {
+      "dci": "Latanoprost",
+      "commercial": [
+        "Xalatan"
+      ],
+      "category": "Ophtalmologie",
+      "imageUrls": [
+        "https://i.imgur.com/dcUnAjl.png"
+      ],
+      "pharmaceuticalForm": "Collyre"
+    },
+    {
+      "dci": "Lercanidipine",
+      "commercial": [
+        "Zanidip"
+      ],
+      "category": "Antihypertenseur",
+      "imageUrls": [
+        "https://i.imgur.com/TeJRRZj.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Létrozole",
+      "commercial": [
+        "Femara"
+      ],
+      "category": "Gynécologie",
+      "imageUrls": [
+        "https://i.imgur.com/EhozaYC.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Lévétiracétam",
+      "commercial": [
+        "Keppra"
+      ],
+      "category": "Antiépileptique",
+      "imageUrls": [
+        "https://i.imgur.com/c7fC2MJ.png",
+        "https://i.imgur.com/FVdrVbK.png",
+        "https://i.imgur.com/PCbhvsj.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Sirop, Solution injectable"
+    },
+    {
+      "dci": "Lévodopa + bensérazide",
+      "commercial": [
+        "Prolopa"
+      ],
+      "category": "Antiparkinsonien",
+      "imageUrls": [
+        "https://i.imgur.com/P6MiBto.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Lévothyroxine",
+      "commercial": [
+        "Euthyrox"
+      ],
+      "category": "Hormone thyroïdienne",
+      "imageUrls": [
+        "https://i.imgur.com/2Q9WIBH.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Lidocaïne + prilocaïne",
+      "commercial": [
+        "Emla"
+      ],
+      "category": "Cicatrisant et soin cutané",
+      "imageUrls": [
+        "https://i.imgur.com/ROEevaK.png",
+        "https://i.imgur.com/GcJjHI8.png"
+      ],
+      "pharmaceuticalForm": "Crème, Patch"
+    },
+    {
+      "dci": "Lopéramide",
+      "commercial": [
+        "Imodium"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/xGQuasF.png",
+        "https://i.imgur.com/2Dg53Vo.png"
+      ],
+      "pharmaceuticalForm": "Comprimés orodispersibles, Gélules"
+    },
+    {
+      "dci": "Loprazolam",
+      "commercial": [
+        "Dormonoct"
+      ],
+      "category": "Anxiolytique",
+      "imageUrls": [
+        "https://i.imgur.com/MT1BM3o.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Lormétazépam",
+      "commercial": [
+        "Loramet"
+      ],
+      "category": "Anxiolytique",
+      "imageUrls": [
+        "https://i.imgur.com/Guw90dU.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Losartan",
+      "commercial": [
+        "Cozaar"
+      ],
+      "category": "Antihypertenseur",
+      "imageUrls": [
+        "https://i.imgur.com/1pGecop.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Macrogol + sels",
+      "commercial": [
+        "Laxido"
+      ],
+      "category": "Laxatif",
+      "imageUrls": [
+        "https://i.imgur.com/usQwisB.png",
+        "https://i.imgur.com/KWrEBKW.png"
+      ],
+      "pharmaceuticalForm": "Sachet"
+    },
+    {
+      "dci": "Macrogol + sels",
+      "commercial": [
+        "Molaxole"
+      ],
+      "category": "Laxatif",
+      "imageUrls": [
+        "https://i.imgur.com/hubUFIb.png"
+      ],
+      "pharmaceuticalForm": "Sachet"
+    },
+    {
+      "dci": "Macrogol + sels",
+      "commercial": [
+        "Movicol"
+      ],
+      "category": "Laxatif",
+      "imageUrls": [
+        "https://i.imgur.com/QtzlxQV.png",
+        "https://i.imgur.com/3myiPsj.png"
+      ],
+      "pharmaceuticalForm": "Sachet, Sachet"
+    },
+    {
+      "dci": "Macrogol 4000",
+      "commercial": [
+        "Forlax"
+      ],
+      "category": "Laxatif",
+      "imageUrls": [
+        "https://i.imgur.com/4o8uSvE.png"
+      ],
+      "pharmaceuticalForm": "Sachet"
+    },
+    {
+      "dci": "Magaldrate",
+      "commercial": [
+        "Riopan"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/Yymvl6Q.png"
+      ],
+      "pharmaceuticalForm": "Sachet"
+    },
+    {
+      "dci": "Mélatonine",
+      "commercial": [
+        "Circadin"
+      ],
+      "category": "Hypnotique",
+      "imageUrls": [
+        "https://i.imgur.com/qoAj86Z.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Etofénamate",
+      "commercial": [
+        "Flexium"
+      ],
+      "category": "Anti-inflammatoire (AINS)",
+      "imageUrls": [
+        "https://i.imgur.com/2AXlpN1.png",
+        "https://i.imgur.com/rOrmTFo.png"
+      ],
+      "pharmaceuticalForm": "Gel, Spray"
+    },
+    {
+      "dci": "Méloxicam",
+      "commercial": [
+        "Meloxidyl"
+      ],
+      "category": "Vétérinaire",
+      "imageUrls": [
+        "https://i.imgur.com/GNXEbko.png",
+        "https://i.imgur.com/g2VTaPo.png"
+      ],
+      "pharmaceuticalForm": "Suspension buvable, Suspension buvable"
+    },
+    {
+      "dci": "Metformine",
+      "commercial": [
+        "Metformax"
+      ],
+      "category": "Antidiabétique",
+      "imageUrls": [
+        "https://i.imgur.com/3T7XuNL.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Méthotrexate",
+      "commercial": [
+        "Ledertrexate"
+      ],
+      "category": "Immunosuppresseur",
+      "imageUrls": [
+        "https://i.imgur.com/ctOu1v8.png",
+        "https://i.imgur.com/0QWae4n.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Solution injectable"
+    },
+    {
+      "dci": "Méthylphénidate",
+      "commercial": [
+        "Equasym"
+      ],
+      "category": "Psychostimulant",
+      "imageUrls": [
+        "https://i.imgur.com/53wPSRC.png"
+      ],
+      "pharmaceuticalForm": "Gélules"
+    },
+    {
+      "dci": "Méthylphénidate",
+      "commercial": [
+        "Rilatine"
+      ],
+      "category": "Psychostimulant",
+      "imageUrls": [
+        "https://i.imgur.com/RXeDpBF.png",
+        "https://i.imgur.com/gURsrJK.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Gélules"
+    },
+    {
+      "dci": "Méthylprednisolone",
+      "commercial": [
+        "Medrol"
+      ],
+      "category": "Corticoïde",
+      "imageUrls": [
+        "https://i.imgur.com/yrCnIJ1.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Gingembre",
+      "commercial": [
+        "Emistyl"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/v1OMdOd.png"
+      ],
+      "pharmaceuticalForm": "Gélules"
+    },
+    {
+      "dci": "Métoprolol",
+      "commercial": [
+        "Tenomed"
+      ],
+      "category": "Antihypertenseur",
+      "imageUrls": [
+        "https://i.imgur.com/23krOiM.png"
+      ],
+      "pharmaceuticalForm": "Crème"
+    },
+    {
+      "dci": "Mirtazapine",
+      "commercial": [
+        "Remergon"
+      ],
+      "category": "Antidépresseur",
+      "imageUrls": [
+        "https://i.imgur.com/X7q6UCI.png"
+      ],
+      "pharmaceuticalForm": "Comprimés orodispersibles"
+    },
+    {
+      "dci": "Molsidomine",
+      "commercial": [
+        "Coruno"
+      ],
+      "category": "Vasodilatateur",
+      "imageUrls": [
+        "https://i.imgur.com/BiPcYSX.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Mométasone",
+      "commercial": [
+        "Elocom"
+      ],
+      "category": "Corticoïde",
+      "imageUrls": [
+        "https://i.imgur.com/6jTMqiS.png",
+        "https://i.imgur.com/CMmRRsD.png",
+        "https://i.imgur.com/QGeMsxO.png"
+      ],
+      "pharmaceuticalForm": "Crème, Pommade, Solution cutanée"
+    },
+    {
+      "dci": "Moxifloxacine",
+      "commercial": [
+        "Avelox"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/ZIsj41S.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Mycophénolate mofétil",
+      "commercial": [
+        "Cellcept"
+      ],
+      "category": "Immunosuppresseur",
+      "imageUrls": [
+        "https://i.imgur.com/bOw424B.png",
+        "https://i.imgur.com/fKBgV2I.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Poudre pour suspension buvable"
+    },
+    {
+      "dci": "Nadroparine",
+      "commercial": [
+        "Fraxiparine"
+      ],
+      "category": "Anticoagulant",
+      "imageUrls": [
+        "https://i.imgur.com/l4vXH6S.png",
+        "https://i.imgur.com/AfNWgbJ.png",
+        "https://i.imgur.com/1OiQ6K4.png",
+        "https://i.imgur.com/sQxPVHn.png"
+      ],
+      "pharmaceuticalForm": "Solution injectable, Solution injectable, Solution injectable, Solution injectable"
+    },
+    {
+      "dci": "Nadroparine",
+      "commercial": [
+        "Fraxodi"
+      ],
+      "category": "Anticoagulant",
+      "imageUrls": [
+        "https://i.imgur.com/ZBL0H5t.png",
+        "https://i.imgur.com/y03PEM8.png",
+        "https://i.imgur.com/OqnGEnu.png"
+      ],
+      "pharmaceuticalForm": "Solution injectable, Solution injectable, Solution injectable"
+    },
+    {
+      "dci": "Nébivolol",
+      "commercial": [
+        "Nobiten"
+      ],
+      "category": "Antihypertenseur",
+      "imageUrls": [
+        "https://i.imgur.com/puHBAw8.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Nitrofurantoïne",
+      "commercial": [
+        "Furadantine"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/W3lQxcQ.png"
+      ],
+      "pharmaceuticalForm": "Gélules"
+    },
+    {
+      "dci": "Nutriments / arginine / zinc",
+      "commercial": [
+        "Cubitan"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/Vp0b5hu.png"
+      ],
+      "pharmaceuticalForm": "Solution buvable"
+    },
+    {
+      "dci": "Olmésartan",
+      "commercial": [
+        "Belsar"
+      ],
+      "category": "Antihypertenseur",
+      "imageUrls": [
+        "https://i.imgur.com/bRrLavk.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Olopatadine + mométasone",
+      "commercial": [
+        "Ryaltris"
+      ],
+      "category": "Antiallergique",
+      "imageUrls": [
+        "https://i.imgur.com/ydm6DAe.png"
+      ],
+      "pharmaceuticalForm": "Spray nasal"
+    },
+    {
+      "dci": "Otilonium",
+      "commercial": [
+        "Spasmomen"
+      ],
+      "category": "ORL",
+      "imageUrls": [
+        "https://i.imgur.com/6eCj3Of.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Oxycodone",
+      "commercial": [
+        "Oxynorm"
+      ],
+      "category": "Antalgique opioïde",
+      "imageUrls": [
+        "https://i.imgur.com/bUoKrqt.png",
+        "https://i.imgur.com/iH8uwRs.png"
+      ],
+      "pharmaceuticalForm": "Comprimés orodispersibles, Solution injectable"
+    },
+    {
+      "dci": "Oxyde de zinc + baume du Pérou + huile de foie de morue",
+      "commercial": [
+        "Inotyol"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/bYqFp2O.png"
+      ],
+      "pharmaceuticalForm": "Pommade"
+    },
+    {
+      "dci": "Oxymétazoline",
+      "commercial": [
+        "Nesivine"
+      ],
+      "category": "Décongestionnant nasal",
+      "imageUrls": [
+        "https://i.imgur.com/uuD30C6.png",
+        "https://i.imgur.com/i07tXQy.png",
+        "https://i.imgur.com/JLnhOA4.png",
+        "https://i.imgur.com/z36mrxT.png"
+      ],
+      "pharmaceuticalForm": "Spray nasal, Spray nasal, Spray nasal"
+    },
+    {
+      "dci": "Oxytétracycline + polymyxine B",
+      "commercial": [
+        "Terramycine + polymyxine B"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/n77gnkQ.png"
+      ],
+      "pharmaceuticalForm": "Pommade ophtalmique"
+    },
+    {
+      "dci": "Pantoprazole",
+      "commercial": [
+        "Pantomed"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/NJOy3q1.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Paracétamol (+codéine)",
+      "commercial": [
+        "Dafalgan"
+      ],
+      "category": "Antalgique",
+      "imageUrls": [
+        "https://i.imgur.com/21hreHQ.png",
+        "https://i.imgur.com/tXOv9jF.png",
+        "https://i.imgur.com/kfuGEiA.png",
+        "https://i.imgur.com/lNB4C1M.png",
+        "https://i.imgur.com/GcIK84H.png",
+        "https://i.imgur.com/ibfvag2.png",
+        "https://i.imgur.com/XlNlIFs.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Gélules, Comprimés effervescents, Sachet, Sachet, Sirop, Suppositoire"
+    },
+    {
+      "dci": "Paracétamol",
+      "commercial": [
+        "Panadol"
+      ],
+      "category": "Antalgique",
+      "imageUrls": [
+        "https://i.imgur.com/w46mRkH.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Paracétamol + acide acétylsalicylique + caféine",
+      "commercial": [
+        "Afebryl"
+      ],
+      "category": "Antalgique",
+      "imageUrls": [
+        "https://i.imgur.com/ix7RnK0.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Paracétamol + caféine",
+      "commercial": [
+        "Algostase"
+      ],
+      "category": "Antalgique",
+      "imageUrls": [
+        "https://i.imgur.com/kbgGkR6.png",
+        "https://i.imgur.com/lBeh9DE.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Comprimés effervescents"
+    },
+    {
+      "dci": "Paracétamol",
+      "commercial": [
+        "Perdolan"
+      ],
+      "category": "Antalgique",
+      "imageUrls": [
+        "https://i.imgur.com/NVG3vqb.png",
+        "https://i.imgur.com/D9amvrI.png",
+        "https://i.imgur.com/cdMmYUb.png",
+        "https://i.imgur.com/jACrdln.png",
+        "https://i.imgur.com/2vv7vuN.png"
+      ],
+      "pharmaceuticalForm": "Sirop, Suppositoire, Suppositoire, Suppositoire, Suppositoire"
+    },
+    {
+      "dci": "Paracétamol + caféine + aspirine",
+      "commercial": [
+        "Excedryn"
+      ],
+      "category": "Antalgique",
+      "imageUrls": [
+        "https://i.imgur.com/vXcm56J.png",
+        "https://i.imgur.com/4Y4f3Oi.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Comprimés"
+    },
+    {
+      "dci": "Paracétamol + chlorphénamine",
+      "commercial": [
+        "Rhinofebryl"
+      ],
+      "category": "Antalgique",
+      "imageUrls": [
+        "https://i.imgur.com/bxG2yZF.png"
+      ],
+      "pharmaceuticalForm": "Gélules"
+    },
+    {
+      "dci": "Paracétamol + codéine",
+      "commercial": [
+        "Algotra"
+      ],
+      "category": "Antalgique",
+      "imageUrls": [
+        "https://i.imgur.com/llGclnY.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Paracétamol + codéine + caféine",
+      "commercial": [
+        "Combophen"
+      ],
+      "category": "Antalgique",
+      "imageUrls": [
+        "https://i.imgur.com/MWD3NVU.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Paracétamol + pseudoéphédrine",
+      "commercial": [
+        "Sinutab"
+      ],
+      "category": "Antalgique",
+      "imageUrls": [
+        "https://i.imgur.com/hUnSD4z.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Paroxétine",
+      "commercial": [
+        "Seroxat"
+      ],
+      "category": "Antidépresseur",
+      "imageUrls": [
+        "https://i.imgur.com/34FU7xu.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Périndopril",
+      "commercial": [
+        "Coversyl"
+      ],
+      "category": "Antihypertenseur",
+      "imageUrls": [
+        "https://i.imgur.com/8UqD2vv.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Périndopril + amlodipine",
+      "commercial": [
+        "Coveram"
+      ],
+      "category": "Antihypertenseur",
+      "imageUrls": [
+        "https://i.imgur.com/4jLP0zE.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Périndopril + indapamide",
+      "commercial": [
+        "Preterax"
+      ],
+      "category": "Antihypertenseur",
+      "imageUrls": [
+        "https://i.imgur.com/cMaTdPG.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Perméthrine",
+      "commercial": [
+        "Zalvor"
+      ],
+      "category": "Antiparasitaire",
+      "imageUrls": [
+        "https://i.imgur.com/EN1UHz9.png"
+      ],
+      "pharmaceuticalForm": "Crème"
+    },
+    {
+      "dci": "Peroxyde / nettoyant enzymatique",
+      "commercial": [
+        "Steradent"
+      ],
+      "category": "Soin bucco-dentaire",
+      "imageUrls": [
+        "https://i.imgur.com/ITpWq19.png"
+      ],
+      "pharmaceuticalForm": "Comprimés effervescents"
+    },
+    {
+      "dci": "Clopérastine",
+      "commercial": [
+        "Lysotossil"
+      ],
+      "category": "Antitussif",
+      "imageUrls": [
+        "https://i.imgur.com/aqMifPo.png",
+        "https://i.imgur.com/tlZjt1z.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Sirop"
+    },
+    {
+      "dci": "Picosulfate de sodium",
+      "commercial": [
+        "Laxoberon"
+      ],
+      "category": "Laxatif",
+      "imageUrls": [
+        "https://i.imgur.com/reieMv2.png"
+      ],
+      "pharmaceuticalForm": "Solution buvable en gouttes"
+    },
+    {
+      "dci": "Diphenhydramine",
+      "commercial": [
+        "Nustasium"
+      ],
+      "category": "Antiallergique",
+      "imageUrls": [
+        "https://i.imgur.com/jMgBUgs.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Pramipexole",
+      "commercial": [
+        "Sifrol"
+      ],
+      "category": "Antiparkinsonien",
+      "imageUrls": [
+        "https://i.imgur.com/st1x6LN.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Prazépam",
+      "commercial": [
+        "Lysanxia"
+      ],
+      "category": "Anxiolytique",
+      "imageUrls": [
+        "https://i.imgur.com/YkX4tJB.png",
+        "https://i.imgur.com/PQWYoZv.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Solution buvable en gouttes"
+    },
+    {
+      "dci": "Prégabaline",
+      "commercial": [
+        "Lyrica"
+      ],
+      "category": "Antiépileptique",
+      "imageUrls": [
+        "https://i.imgur.com/yoS1JcO.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Probiotiques (Lactobacillus spp.)",
+      "commercial": [
+        "Bactecal"
+      ],
+      "category": "Probiotique",
+      "imageUrls": [
+        "https://i.imgur.com/JuRGDAi.png",
+        "https://i.imgur.com/ryNb23F.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Sachet"
+    },
+    {
+      "dci": "Propentofylline",
+      "commercial": [
+        "Vitofyllin"
+      ],
+      "category": "Vétérinaire",
+      "imageUrls": [
+        "https://i.imgur.com/xZALNBp.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Pyridostigmine",
+      "commercial": [
+        "Mestinon"
+      ],
+      "category": "Myorelaxant",
+      "imageUrls": [
+        "https://i.imgur.com/CBcsz4P.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Quétiapine",
+      "commercial": [
+        "Seroquel"
+      ],
+      "category": "Antipsychotique",
+      "imageUrls": [
+        "https://i.imgur.com/eUiUZ9j.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Rasagiline",
+      "commercial": [
+        "Azilect"
+      ],
+      "category": "Antiparkinsonien",
+      "imageUrls": [
+        "https://i.imgur.com/bSsv8ZT.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Répaglinide",
+      "commercial": [
+        "Novonorm"
+      ],
+      "category": "Antidiabétique",
+      "imageUrls": [
+        "https://i.imgur.com/hYeCcT8.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Rispéridone",
+      "commercial": [
+        "Risperdal"
+      ],
+      "category": "Antipsychotique",
+      "imageUrls": [
+        "https://i.imgur.com/uXCSaWp.png",
+        "https://i.imgur.com/3KKkvBg.png",
+        "https://i.imgur.com/Df3FmPx.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Solution buvable, Poudre pour suspension injectable"
+    },
+    {
+      "dci": "Rosuvastatine",
+      "commercial": [
+        "Crestor"
+      ],
+      "category": "Hypolipémiant",
+      "imageUrls": [
+        "https://i.imgur.com/qaMCHsG.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Rupatadine",
+      "commercial": [
+        "Rupatall"
+      ],
+      "category": "Antiallergique",
+      "imageUrls": [
+        "https://i.imgur.com/mSwJ5ln.png",
+        "https://i.imgur.com/Uk5cO80.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Sirop"
+    },
+    {
+      "dci": "Saccharomyces boulardii",
+      "commercial": [
+        "Enterol"
+      ],
+      "category": "Probiotique",
+      "imageUrls": [
+        "https://i.imgur.com/c2WA9Gh.png",
+        "https://i.imgur.com/MccqxZQ.png"
+      ],
+      "pharmaceuticalForm": "Gélules, Sachet"
+    },
+    {
+      "dci": "Sacubitril + valsartan",
+      "commercial": [
+        "Entresto"
+      ],
+      "category": "Antihypertenseur",
+      "imageUrls": [
+        "https://i.imgur.com/Xf9gGKx.png",
+        "https://i.imgur.com/PqIhRGK.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Gélules"
+    },
+    {
+      "dci": "Salbutamol",
+      "commercial": [
+        "Ventolin"
+      ],
+      "category": "Bronchodilatateur",
+      "imageUrls": [
+        "https://i.imgur.com/KEKfRPC.png",
+        "https://i.imgur.com/2lRv3Vz.png",
+        "https://i.imgur.com/vbsE5s2.png"
+      ],
+      "pharmaceuticalForm": "Suspension pour inhalation, Solution pour inhalation/nébulisation, Solution injectable"
+    },
+    {
+      "dci": "Sémaglutide",
+      "commercial": [
+        "Ozempic"
+      ],
+      "category": "Antidiabétique",
+      "imageUrls": [
+        "https://i.imgur.com/2WD9o3d.png"
+      ],
+      "pharmaceuticalForm": "Solution injectable"
+    },
+    {
+      "dci": "Sémaglutide",
+      "commercial": [
+        "Rybelsus"
+      ],
+      "category": "Antidiabétique",
+      "imageUrls": [
+        "https://i.imgur.com/votGQFh.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Sertraline",
+      "commercial": [
+        "Serlain"
+      ],
+      "category": "Antidépresseur",
+      "imageUrls": [
+        "https://i.imgur.com/7M4SOVv.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Simvastatine",
+      "commercial": [
+        "Zocor"
+      ],
+      "category": "Hypolipémiant",
+      "imageUrls": [
+        "https://i.imgur.com/1xmthho.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Sitagliptine",
+      "commercial": [
+        "Januvia"
+      ],
+      "category": "Antidiabétique",
+      "imageUrls": [
+        "https://i.imgur.com/LCwfVqm.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Xylométazoline",
+      "commercial": [
+        "Xylomaris"
+      ],
+      "category": "Décongestionnant nasal",
+      "imageUrls": [
+        "https://i.imgur.com/Iq7obqu.png"
+      ],
+      "pharmaceuticalForm": "Spray nasal"
+    },
+    {
+      "dci": "Solution saline / huiles essentielles",
+      "commercial": [
+        "Rhinovita"
+      ],
+      "category": "Décongestionnant nasal",
+      "imageUrls": [
+        "https://i.imgur.com/NN5GdFW.png",
+        "https://i.imgur.com/aiN5BNI.png"
+      ],
+      "pharmaceuticalForm": "Pommade nasal, Gouttes nasal"
+    },
+    {
+      "dci": "Spironolactone",
+      "commercial": [
+        "Aldactone"
+      ],
+      "category": "Antihypertenseur",
+      "imageUrls": [
+        "https://i.imgur.com/TBaUTl6.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Sulfadiazine argentique",
+      "commercial": [
+        "Flammazine"
+      ],
+      "category": "Antiseptique",
+      "imageUrls": [
+        "https://i.imgur.com/oeS5PKr.png"
+      ],
+      "pharmaceuticalForm": "Crème"
+    },
+    {
+      "dci": "Sulfaméthoxazole + triméthoprime",
+      "commercial": [
+        "Bactrim"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/R5ToAJL.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Sulfate ferreux",
+      "commercial": [
+        "Tardyferon"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/zcXJbdQ.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Tacrolimus",
+      "commercial": [
+        "Advagraf"
+      ],
+      "category": "Immunosuppresseur",
+      "imageUrls": [
+        "https://i.imgur.com/RN7Snif.png"
+      ],
+      "pharmaceuticalForm": "Gélules"
+    },
+    {
+      "dci": "Thiamine (vitamine B1)",
+      "commercial": [
+        "Benerva"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/Zjeig4t.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Tobramycine",
+      "commercial": [
+        "Tobrex"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/ttJeFLm.png",
+        "https://i.imgur.com/EDI0KyT.png"
+      ],
+      "pharmaceuticalForm": "Collyre, Pommade ophtalmique"
+    },
+    {
+      "dci": "Tobramycine + dexaméthasone",
+      "commercial": [
+        "Tobradex"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/HqhlsU3.png",
+        "https://i.imgur.com/V0ZdJXR.png"
+      ],
+      "pharmaceuticalForm": "Collyre, Pommade ophtalmique"
+    },
+    {
+      "dci": "Tramadol",
+      "commercial": [
+        "Contramal"
+      ],
+      "category": "Antalgique opioïde",
+      "imageUrls": [
+        "https://i.imgur.com/tN7EobF.png",
+        "https://i.imgur.com/6uZpd41.png",
+        "https://i.imgur.com/tBcC63Y.png",
+        "https://i.imgur.com/rd9YPls.png",
+        "https://i.imgur.com/3YGNkgI.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Gélules, Solution injectable, Solution buvable en gouttes, Solution buvable, Solution injectable"
+    },
+    {
+      "dci": "Tramadol",
+      "commercial": [
+        "Tradonal"
+      ],
+      "category": "Antalgique opioïde",
+      "imageUrls": [
+        "https://i.imgur.com/8fBpjef.png",
+        "https://i.imgur.com/gUkOxBA.png",
+        "https://i.imgur.com/g8ERCSB.png",
+        "https://i.imgur.com/6waQ4YF.png",
+        "https://i.imgur.com/iEy6xvo.png"
+      ],
+      "pharmaceuticalForm": "Gélules, Comprimés orodispersibles, Gélules, Solution buvable en gouttes, Solution injectable"
+    },
+    {
+      "dci": "Tramadol + paracétamol",
+      "commercial": [
+        "Zaldiar"
+      ],
+      "category": "Antalgique opioïde",
+      "imageUrls": [
+        "https://i.imgur.com/Ab2bxCG.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Tréhalose",
+      "commercial": [
+        "Thealoz"
+      ],
+      "category": "Ophtalmologie",
+      "imageUrls": [
+        "https://i.imgur.com/BoaQVZF.png"
+      ],
+      "pharmaceuticalForm": "Collyre"
+    },
+    {
+      "dci": "Triazolam",
+      "commercial": [
+        "Halcion"
+      ],
+      "category": "Anxiolytique",
+      "imageUrls": [
+        "https://i.imgur.com/5bwDVin.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Nitroflycérine",
+      "commercial": [
+        "Minitran"
+      ],
+      "category": "Vasodilatateur",
+      "imageUrls": [
+        "https://i.imgur.com/JF6tBU0.png"
+      ],
+      "pharmaceuticalForm": "Patch"
+    },
+    {
+      "dci": "Rosuvastatine + ezetimibe",
+      "commercial": [
+        "Myrosor"
+      ],
+      "category": "Hypolipémiant",
+      "imageUrls": [
+        "https://i.imgur.com/OotONZX.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Vaccin anti-rotavirus",
+      "commercial": [
+        "Rotarix"
+      ],
+      "category": "Vaccin",
+      "imageUrls": [
+        "https://i.imgur.com/c09EF7P.png"
+      ],
+      "pharmaceuticalForm": "Suspension injectable"
+    },
+    {
+      "dci": "Vaccin diphtérie-tétanos-coqueluche",
+      "commercial": [
+        "Boostrix"
+      ],
+      "category": "Vaccin",
+      "imageUrls": [
+        "https://i.imgur.com/erEhiCL.png"
+      ],
+      "pharmaceuticalForm": "Suspension injectable"
+    },
+    {
+      "dci": "Vaccin grippe quadrivalent",
+      "commercial": [
+        "Efluelda"
+      ],
+      "category": "Vaccin",
+      "imageUrls": [
+        "https://i.imgur.com/rk4jkWt.png"
+      ],
+      "pharmaceuticalForm": "Suspension injectable"
+    },
+    {
+      "dci": "Vaccin pneumocoque conjugué",
+      "commercial": [
+        "Prevenar"
+      ],
+      "category": "Vaccin",
+      "imageUrls": [
+        "https://i.imgur.com/LXi0JDH.png"
+      ],
+      "pharmaceuticalForm": "Suspension injectable"
+    },
+    {
+      "dci": "Valproate de sodium",
+      "commercial": [
+        "Depakine"
+      ],
+      "category": "Antiépileptique",
+      "imageUrls": [
+        "https://i.imgur.com/qSbaZSm.png",
+        "https://i.imgur.com/E8vnZ5N.png",
+        "https://i.imgur.com/hN1ejF9.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Solution buvable, Solution injectable"
+    },
+    {
+      "dci": "Venlafaxine",
+      "commercial": [
+        "Efexor"
+      ],
+      "category": "Antidépresseur",
+      "imageUrls": [
+        "https://i.imgur.com/Q3CUVjn.png"
+      ],
+      "pharmaceuticalForm": "Gélules"
+    },
+    {
+      "dci": "Vermifuge chiens et chats",
+      "commercial": [
+        "Parazan"
+      ],
+      "category": "Vétérinaire",
+      "imageUrls": [
+        "https://i.imgur.com/4OSG6DZ.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Vitamines B + minéraux",
+      "commercial": [
+        "Tavaforce"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/FbFp2N1.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Xylométazoline",
+      "commercial": [
+        "Otrivine Décongestionnant"
+      ],
+      "category": "Décongestionnant nasal",
+      "imageUrls": [
+        "https://i.imgur.com/soefMLr.png",
+        "https://i.imgur.com/ax87kjA.png",
+        "https://i.imgur.com/SJQ0wOb.png",
+        "https://i.imgur.com/qLpQg6H.png"
+      ],
+      "pharmaceuticalForm": "Spray nasal, Spray nasal, Spray nasal, Spray nasal"
+    },
+    {
+      "dci": "Mélatonine",
+      "commercial": [
+        "Noxarem"
+      ],
+      "category": "Hypnotique",
+      "imageUrls": [
+        "https://i.imgur.com/bk6p1qq.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Zopiclone",
+      "commercial": [
+        "Zopiclone"
+      ],
+      "category": "Hypnotique",
+      "imageUrls": [
+        "https://i.imgur.com/aj3TwC5.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Zuclopenthixol",
+      "commercial": [
+        "Clopixol"
+      ],
+      "category": "Antipsychotique",
+      "imageUrls": [
+        "https://i.imgur.com/4JwjoKk.png",
+        "https://i.imgur.com/tqgI2HA.png",
+        "https://i.imgur.com/kruwzGq.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Solution buvable en gouttes, Solution injectable"
+    },
+    {
+      "dci": "Budésonide + formotérol",
+      "commercial": [
+        "Bufomix"
+      ],
+      "category": "Bronchodilatateur",
+      "imageUrls": [
+        "https://i.imgur.com/cG7gkye.png"
+      ],
+      "pharmaceuticalForm": "Poudre pour inhalation"
+    },
+    {
+      "dci": "Amoxicilline",
+      "commercial": [
+        "Clamoxyl"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/eWQsDyu.png",
+        "https://i.imgur.com/eB5YVsC.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Sirop"
+    },
+    {
+      "dci": "Loratadine + pseudoéphédrine ",
+      "commercial": [
+        "Clarinase"
+      ],
+      "category": "Antiallergique",
+      "imageUrls": [
+        "https://i.imgur.com/ZGH2FSB.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Phosphate de sodium",
+      "commercial": [
+        "Cleen enema"
+      ],
+      "category": "Laxatif",
+      "imageUrls": [
+        "https://i.imgur.com/OzhpI5w.png"
+      ],
+      "pharmaceuticalForm": "Solution rectale"
+    },
+    {
+      "dci": "Tosychloramide",
+      "commercial": [
+        "Clonazone"
+      ],
+      "category": "Antiseptique",
+      "imageUrls": [
+        "https://i.imgur.com/nBM5HGp.png"
+      ],
+      "pharmaceuticalForm": "Poudre pour solution"
+    },
+    {
+      "dci": "Méthylprednisolone",
+      "commercial": [
+        "Depo-medrol"
+      ],
+      "category": "Anti-inflammatoire (AINS)",
+      "imageUrls": [
+        "https://i.imgur.com/HdZAJS4.png"
+      ],
+      "pharmaceuticalForm": "Suspension injectable"
+    },
+    {
+      "dci": "Clobétasol",
+      "commercial": [
+        "Dermovate"
+      ],
+      "category": "Corticoïde",
+      "imageUrls": [
+        "https://i.imgur.com/R6BXEiX.png",
+        "https://i.imgur.com/PJ5g1wi.png",
+        "https://i.imgur.com/9oTw6nh.png"
+      ],
+      "pharmaceuticalForm": "Crème, Pommade, Solution cutanée"
+    },
+    {
+      "dci": "Fluconazole",
+      "commercial": [
+        "Diflucan"
+      ],
+      "category": "Antifongique",
+      "imageUrls": [
+        "https://i.imgur.com/2jrvwVA.png",
+        "https://i.imgur.com/CdWTIkY.png",
+        "https://i.imgur.com/6zPMZP0.png"
+      ],
+      "pharmaceuticalForm": "Gélules, Poudre pour suspension buvable, Solution injectable"
+    },
+    {
+      "dci": "Dorzolamide + timolol",
+      "commercial": [
+        "Dualkopt"
+      ],
+      "category": "Ophtalmologie",
+      "imageUrls": [
+        "https://i.imgur.com/l1l69iS.png"
+      ],
+      "pharmaceuticalForm": "Collyre"
+    },
+    {
+      "dci": "Macrogol",
+      "commercial": [
+        "Dulcosoft"
+      ],
+      "category": "Laxatif",
+      "imageUrls": [
+        "https://i.imgur.com/cJ6z405.png",
+        "https://i.imgur.com/cP8lGsy.png"
+      ],
+      "pharmaceuticalForm": "Solution buvable, Sachet"
+    },
+    {
+      "dci": "Bisoprolol + hydrochlorothiazide",
+      "commercial": [
+        "Emcoretic"
+      ],
+      "category": "Antihypertenseur",
+      "imageUrls": [
+        "https://i.imgur.com/pJramFk.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Raloxifène",
+      "commercial": [
+        "Evista"
+      ],
+      "category": "Traitement de l'ostéoporose",
+      "imageUrls": [
+        "https://i.imgur.com/He9uPKb.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Lactobacillus helveticus",
+      "commercial": [
+        "Feminabiane intima"
+      ],
+      "category": "Gynécologie",
+      "imageUrls": [
+        "https://i.imgur.com/gy41IML.png",
+        "https://i.imgur.com/okeUnkn.png"
+      ],
+      "pharmaceuticalForm": "Crème, Gélules"
+    },
+    {
+      "dci": "Olmésartan + amlodipine",
+      "commercial": [
+        "Forzaten"
+      ],
+      "category": "Antihypertenseur",
+      "imageUrls": [
+        "https://i.imgur.com/g7BqgDz.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Acide fusidique",
+      "commercial": [
+        "Fusidine"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/xmGh394.png"
+      ],
+      "pharmaceuticalForm": "Crème"
+    },
+    {
+      "dci": "Vaccin Papillomavirus Humains",
+      "commercial": [
+        "Gardasil"
+      ],
+      "category": "Vaccin",
+      "imageUrls": [
+        "https://i.imgur.com/ne7Frpg.png"
+      ],
+      "pharmaceuticalForm": "Suspension injectable"
+    },
+    {
+      "dci": "Insuline lispro",
+      "commercial": [
+        "Humalog"
+      ],
+      "category": "Antidiabétique",
+      "imageUrls": [
+        "https://i.imgur.com/rftTBJN.png"
+      ],
+      "pharmaceuticalForm": "Solution injectable"
+    },
+    {
+      "dci": "Indométacine",
+      "commercial": [
+        "Indocollyre"
+      ],
+      "category": "Ophtalmologie",
+      "imageUrls": [
+        "https://i.imgur.com/kO7KIpQ.png"
+      ],
+      "pharmaceuticalForm": "Collyre"
+    },
+    {
+      "dci": "Inclisiran",
+      "commercial": [
+        "Leqvio"
+      ],
+      "category": "Hypolipémiant",
+      "imageUrls": [
+        "https://i.imgur.com/7fOmcuI.png"
+      ],
+      "pharmaceuticalForm": "Solution injectable"
+    },
+    {
+      "dci": "Miansérine",
+      "commercial": [
+        "Lerivon"
+      ],
+      "category": "Antidépresseur",
+      "imageUrls": [
+        "https://i.imgur.com/NBbY6Hu.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Mémantine",
+      "commercial": [
+        "Mémantine"
+      ],
+      "category": "Antidépresseur",
+      "imageUrls": [
+        "https://i.imgur.com/59xd9fp.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Erdostéine",
+      "commercial": [
+        "Mucodox"
+      ],
+      "category": "Mucolytique",
+      "imageUrls": [
+        "https://i.imgur.com/yTb6ufY.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Xylométazoline",
+      "commercial": [
+        "Nasa rhinathiol"
+      ],
+      "category": "Décongestionnant nasal",
+      "imageUrls": [
+        "https://i.imgur.com/qooUody.png"
+      ],
+      "pharmaceuticalForm": "Spray nasal"
+    },
+    {
+      "dci": "Gabapentine",
+      "commercial": [
+        "Neurontin"
+      ],
+      "category": "Antiépileptique",
+      "imageUrls": [
+        "https://i.imgur.com/tdNUaFn.png",
+        "https://i.imgur.com/QIW2AvV.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Gélules"
+    },
+    {
+      "dci": "Insuline asparte",
+      "commercial": [
+        "Novorapid"
+      ],
+      "category": "Antidiabétique",
+      "imageUrls": [
+        "https://i.imgur.com/IlyVxud.png",
+        "https://i.imgur.com/xDzSdRP.png",
+        "https://i.imgur.com/XVPXeZH.png",
+        "https://i.imgur.com/6IRuKZM.png"
+      ],
+      "pharmaceuticalForm": "Solution injectable, Solution injectable, Solution injectable, Solution injectable"
+    },
+    {
+      "dci": "Ibuprofène",
+      "commercial": [
+        "Nurofen"
+      ],
+      "category": "Anti-inflammatoire (AINS)",
+      "imageUrls": [
+        "https://i.imgur.com/aoC5Ha3.png",
+        "https://i.imgur.com/rRX6rEt.png",
+        "https://i.imgur.com/EhPIxVP.png",
+        "https://i.imgur.com/uZsCUfs.png",
+        "https://i.imgur.com/ls5pU4u.png",
+        "https://i.imgur.com/NXqZP15.png",
+        "https://i.imgur.com/UBNSsp8.png",
+        "https://i.imgur.com/tFt8MPn.png",
+        "https://i.imgur.com/pEkDIjm.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Comprimés, Sirop, Sirop, Suppositoire, Suppositoire"
+    },
+    {
+      "dci": "Canard de Barbarie",
+      "commercial": [
+        "Oscillococcinum"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/zyZVQam.png"
+      ],
+      "pharmaceuticalForm": "Globules"
+    },
+    {
+      "dci": "Fluticasone",
+      "commercial": [
+        "Otrivine Anti-allergie"
+      ],
+      "category": "Antiallergique",
+      "imageUrls": [
+        "https://i.imgur.com/MQJQnPh.png"
+      ],
+      "pharmaceuticalForm": "Spray nasal"
+    },
+    {
+      "dci": "Xylométazoline + ipratropium",
+      "commercial": [
+        "Otrivine Duo"
+      ],
+      "category": "Décongestionnant nasal",
+      "imageUrls": [
+        "https://i.imgur.com/uaTHOCl.png"
+      ],
+      "pharmaceuticalForm": "Spray nasal"
+    },
+    {
+      "dci": "Solifénacine",
+      "commercial": [
+        "Pelvicare"
+      ],
+      "category": "Urologie",
+      "imageUrls": [
+        "https://i.imgur.com/xxggVon.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Levures + bactéries",
+      "commercial": [
+        "Prolardii"
+      ],
+      "category": "Probiotique",
+      "imageUrls": [
+        "https://i.imgur.com/XoOj2AZ.png"
+      ],
+      "pharmaceuticalForm": "Gélules"
+    },
+    {
+      "dci": "Oméprazole",
+      "commercial": [
+        "Sedacid"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/olP4wpd.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Olmésartan + amlodipine",
+      "commercial": [
+        "Sevikar"
+      ],
+      "category": "Antihypertenseur",
+      "imageUrls": [
+        "https://i.imgur.com/Ecw0Ats.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Tramadol + dexkétoprofène",
+      "commercial": [
+        "Skudexa"
+      ],
+      "category": "Antalgique opioïde",
+      "imageUrls": [
+        "https://i.imgur.com/5OALNwT.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Oseltamivir",
+      "commercial": [
+        "Tamiflu"
+      ],
+      "category": "Antiviral",
+      "imageUrls": [
+        "https://i.imgur.com/EYYmF9F.png"
+      ],
+      "pharmaceuticalForm": "Gélules"
+    },
+    {
+      "dci": "Lorazépam",
+      "commercial": [
+        "Temesta"
+      ],
+      "category": "Anxiolytique",
+      "imageUrls": [
+        "https://i.imgur.com/ykfTLs8.png",
+        "https://i.imgur.com/DBNhzcq.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Lyophilisats"
+    },
+    {
+      "dci": "Racécadotril",
+      "commercial": [
+        "Tiorfix"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/U9XL8jH.png",
+        "https://i.imgur.com/LZnlIKp.png",
+        "https://i.imgur.com/SVgJF9e.png",
+        "https://i.imgur.com/LgNwcSz.png"
+      ],
+      "pharmaceuticalForm": "Gélules, Sachet, Sachet, Suspension buvable"
+    },
+    {
+      "dci": "Clindamycine + trétinoïne",
+      "commercial": [
+        "Treclinax"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/ha5uTvf.png"
+      ],
+      "pharmaceuticalForm": "Gel"
+    },
+    {
+      "dci": "Doxycycline",
+      "commercial": [
+        "Vibratab"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/xgMZC5D.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Liraglutide",
+      "commercial": [
+        "Victoza"
+      ],
+      "category": "Antidiabétique",
+      "imageUrls": [
+        "https://i.imgur.com/xCBufS7.png"
+      ],
+      "pharmaceuticalForm": "Solution injectable"
+    },
+    {
+      "dci": "Diclofénac",
+      "commercial": [
+        "Voltaren"
+      ],
+      "category": "Anti-inflammatoire (AINS)",
+      "imageUrls": [
+        "https://i.imgur.com/yLkLrA4.png",
+        "https://i.imgur.com/ZVMMiLm.png",
+        "https://i.imgur.com/7cuXi5a.png",
+        "https://i.imgur.com/YsUiV2v.png",
+        "https://i.imgur.com/sjtMhMz.png",
+        "https://i.imgur.com/RVHQ1Cv.png",
+        "https://i.imgur.com/dYjui4O.png"
+      ],
+      "pharmaceuticalForm": "Patch, Comprimés, Comprimés, Suppositoire, Solution injectable, Gel, Gel"
+    },
+    {
+      "dci": "Adalimumab",
+      "commercial": [
+        "Yuflyma"
+      ],
+      "category": "Immunomodulateur",
+      "imageUrls": [
+        "https://i.imgur.com/onP95WF.png"
+      ],
+      "pharmaceuticalForm": "Solution injectable"
+    },
+    {
+      "dci": "Bifonazole",
+      "commercial": [
+        "Canestene Derm"
+      ],
+      "category": "Antifongique",
+      "imageUrls": [
+        "https://i.imgur.com/CVJnKoy.png"
+      ],
+      "pharmaceuticalForm": "Crème"
+    },
+    {
+      "dci": "Clotrimazole",
+      "commercial": [
+        "Canestene Gyn"
+      ],
+      "category": "Antifongique",
+      "imageUrls": [
+        "https://i.imgur.com/VPSIRPb.png",
+        "https://i.imgur.com/VePThHt.png",
+        "https://i.imgur.com/A8Tti6t.png"
+      ],
+      "pharmaceuticalForm": "Crème, Comprimés"
+    },
+    {
+      "dci": "Fenouil + tileul + fleur d'oranger",
+      "commercial": [
+        "Calmosine"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/QdgBqwS.png"
+      ],
+      "pharmaceuticalForm": "Sirop"
+    },
+    {
+      "dci": "Vitamine A, B3, B5",
+      "commercial": [
+        "Vitapantol"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/LWPER9w.png"
+      ],
+      "pharmaceuticalForm": "Pommade nasal"
+    },
+    {
+      "dci": "Fenugrec",
+      "commercial": [
+        "Arko fenugrec"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/iPGBW1c.png"
+      ],
+      "pharmaceuticalForm": "Gélules"
+    },
+    {
+      "dci": "Risankizumab",
+      "commercial": [
+        "Skyrizi"
+      ],
+      "category": "Immunomodulateur",
+      "imageUrls": [
+        "https://i.imgur.com/os8gHlm.png"
+      ],
+      "pharmaceuticalForm": "Solution injectable"
+    },
+    {
+      "dci": "Aiguilles",
+      "commercial": [
+        "BD Micro-fine"
+      ],
+      "category": "Matériel médical",
+      "imageUrls": [
+        "https://i.imgur.com/8xnqora.png",
+        "https://i.imgur.com/7rsX2yA.png",
+        "https://i.imgur.com/5Hgpn2I.png"
+      ],
+      "pharmaceuticalForm": "Aiguilles"
+    },
+    {
+      "dci": "Citrate de bétaïne",
+      "commercial": [
+        "Upsa Digest"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/UOkZKky.png",
+        "https://i.imgur.com/IZrw3xT.png"
+      ],
+      "pharmaceuticalForm": "Gélules, Comprimés effervescents"
+    },
+    {
+      "dci": "Lactobacilles + FOS",
+      "commercial": [
+        "Progyn"
+      ],
+      "category": "Probiotique",
+      "imageUrls": [
+        "https://i.imgur.com/R0Sm1GN.png"
+      ],
+      "pharmaceuticalForm": "Capsules"
+    },
+    {
+      "dci": "Champignon",
+      "commercial": [
+        "Dr Licey Shampooing anti-poux"
+      ],
+      "category": "Antiparasitaire",
+      "imageUrls": [
+        "https://i.imgur.com/7q73Rqe.png"
+      ],
+      "pharmaceuticalForm": "Shampoing"
+    },
+    {
+      "dci": "Dexaméthasone + chloramphénicol",
+      "commercial": [
+        "De Icol"
+      ],
+      "category": "Ophtalmologie",
+      "imageUrls": [
+        "https://i.imgur.com/LdfVLe3.png"
+      ],
+      "pharmaceuticalForm": "Collyre"
+    },
+    {
+      "dci": "Complexe végétal",
+      "commercial": [
+        "Grintuss"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/YBvxwKf.png",
+        "https://i.imgur.com/HPta9VN.png"
+      ],
+      "pharmaceuticalForm": "Sirop, Sirop"
+    },
+    {
+      "dci": "Acide acétylsalicylique",
+      "commercial": [
+        "Cardioaspirine"
+      ],
+      "category": "Antiagrégant plaquettaire",
+      "imageUrls": [
+        "https://i.imgur.com/O8fQ3ux.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Voriconazole",
+      "commercial": [
+        "Vfend"
+      ],
+      "category": "Antifongique",
+      "imageUrls": [
+        "https://i.imgur.com/IIIQrhH.png",
+        "https://i.imgur.com/Ia2XYC4.png",
+        "https://i.imgur.com/Dc5f5vg.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Sirop, Solution injectable"
+    },
+    {
+      "dci": "Calcium + vitamine D",
+      "commercial": [
+        "Steovit"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/ckUrgnl.png",
+        "https://i.imgur.com/KyhicsI.png",
+        "https://i.imgur.com/9mJUrKi.png",
+        "https://i.imgur.com/EHypwOA.png"
+      ],
+      "pharmaceuticalForm": "Comprimés à croquer, Comprimés à croquer, Comprimés à croquer, Comprimés effervescents"
+    },
+    {
+      "dci": "Anastrozole",
+      "commercial": [
+        "Arimidex"
+      ],
+      "category": "Hormonothérapie",
+      "imageUrls": [
+        "https://i.imgur.com/CV9NUM9.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Pantoprazole",
+      "commercial": [
+        "Pantogastrix"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/JzWn9MT.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Vitamine D3",
+      "commercial": [
+        "D-cure"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/sjkgouM.png",
+        "https://i.imgur.com/6kd3apH.png"
+      ],
+      "pharmaceuticalForm": "Gélules, Solution buvable en gouttes"
+    },
+    {
+      "dci": "Acide hyaluronique",
+      "commercial": [
+        "Hylo Dual"
+      ],
+      "category": "Ophtalmologie",
+      "imageUrls": [
+        "https://i.imgur.com/crffYEC.png"
+      ],
+      "pharmaceuticalForm": "Collyre"
+    },
+    {
+      "dci": "Valériane + eschscholzia + mélisse + safran + mélatonine",
+      "commercial": [
+        "Sedisleep"
+      ],
+      "category": "Hypnotique",
+      "imageUrls": [
+        "https://i.imgur.com/0vAvcoQ.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Passiflore",
+      "commercial": [
+        "Sedistress"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/dYdLU9g.png",
+        "https://i.imgur.com/PAFcMbl.png",
+        "https://i.imgur.com/uEHhQfH.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Comprimés, Comprimés"
+    },
+    {
+      "dci": "Lactobacillus + safran + magnésium + vitamines B",
+      "commercial": [
+        "Bacterelax"
+      ],
+      "category": "Probiotique",
+      "imageUrls": [
+        "https://i.imgur.com/vir4gyj.png"
+      ],
+      "pharmaceuticalForm": "Gélules"
+    },
+    {
+      "dci": "Potassium",
+      "commercial": [
+        "Kalium retard"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/C65G0DM.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Lymécycline",
+      "commercial": [
+        "Tétralysal"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/gipO9I4.png"
+      ],
+      "pharmaceuticalForm": "Gélules"
+    },
+    {
+      "dci": "Amlodipine + valsartan",
+      "commercial": [
+        "Exforge"
+      ],
+      "category": "Antihypertenseur",
+      "imageUrls": [
+        "https://i.imgur.com/5ZG2dyc.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Arnica montana",
+      "commercial": [
+        "Arnigel"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/8WIiYsL.png"
+      ],
+      "pharmaceuticalForm": "Gel"
+    },
+    {
+      "dci": "Curcuma",
+      "commercial": [
+        "Curcudyn forte"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/lkeia0y.png"
+      ],
+      "pharmaceuticalForm": "Gélules"
+    },
+    {
+      "dci": "Imiquimod",
+      "commercial": [
+        "Aldara"
+      ],
+      "category": "Immunomodulateur",
+      "imageUrls": [
+        "https://i.imgur.com/TelgVaw.png"
+      ],
+      "pharmaceuticalForm": "Crème"
+    },
+    {
+      "dci": "Mébendazole",
+      "commercial": [
+        "Vermox"
+      ],
+      "category": "Vétérinaire",
+      "imageUrls": [
+        "https://i.imgur.com/YZ1IXpU.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Dolupérine",
+      "commercial": [
+        "Holistica"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/rkYcZsO.png"
+      ],
+      "pharmaceuticalForm": "Gélules"
+    },
+    {
+      "dci": "Salicylate de méthyle + térébenthine + camphre + menthol",
+      "commercial": [
+        "Reflexspray"
+      ],
+      "category": "Cicatrisant et soin cutané",
+      "imageUrls": [
+        "https://i.imgur.com/2NO39TV.png"
+      ],
+      "pharmaceuticalForm": "Spray"
+    },
+    {
+      "dci": "Naproxène + ésoméprazole",
+      "commercial": [
+        "Vimovo"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/nNygpmk.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Kétotifène",
+      "commercial": [
+        "Altriabak"
+      ],
+      "category": "Antiallergique",
+      "imageUrls": [
+        "https://i.imgur.com/tJ93g1k.png"
+      ],
+      "pharmaceuticalForm": "Collyre"
+    },
+    {
+      "dci": "Oxyde de zinc + alcool benzylique + benzoate de benzyle + cinnamate de benzyle",
+      "commercial": [
+        "Dermocrem"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/UvQ39q0.png"
+      ],
+      "pharmaceuticalForm": "Crème"
+    },
+    {
+      "dci": "Carbomère",
+      "commercial": [
+        "Lacrinorm"
+      ],
+      "category": "Ophtalmologie",
+      "imageUrls": [
+        "https://i.imgur.com/zELLQOz.png"
+      ],
+      "pharmaceuticalForm": "Gel ophtalmique"
+    },
+    {
+      "dci": "Magnésium + taurine + vitamine B6, B12, B9 et D3",
+      "commercial": [
+        "Metarelax"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/BGsmhVP.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Mentha x piperita + Carum carvi",
+      "commercial": [
+        "Carmenthin"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/Bwhb555.png"
+      ],
+      "pharmaceuticalForm": ""
+    },
+    {
+      "dci": "Vitamine D",
+      "commercial": [
+        "D-pearl"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/Zq8gHQu.png",
+        "https://i.imgur.com/vLrw91f.png",
+        "https://i.imgur.com/T1b0pyc.png"
+      ],
+      "pharmaceuticalForm": ""
+    },
+    {
+      "dci": "Oxyde d'aluminium + hydroxyde de magénsium",
+      "commercial": [
+        "Maalox Antacid"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/0kthuXB.png",
+        "https://i.imgur.com/m4pfb47.png"
+      ],
+      "pharmaceuticalForm": "Comprimés à croquer, Sirop"
+    },
+    {
+      "dci": "Pantoprazole",
+      "commercial": [
+        "Maalox Control"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/Ols9dGv.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Complex moléculaire poliprotect + fraction flavonoïque (réglisse, camomille)",
+      "commercial": [
+        "Neo Bianacid"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/wv3q4m3.png",
+        "https://i.imgur.com/RJ85KfF.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Comprimés"
+    },
+    {
+      "dci": "Complexe végétal + autres",
+      "commercial": [
+        "Reflucare"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/6iovKjX.png"
+      ],
+      "pharmaceuticalForm": "Solution buvable"
+    },
+    {
+      "dci": "Vitamines",
+      "commercial": [
+        "Gastricumeel"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/y6hhf4U.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Vitamines",
+      "commercial": [
+        "Spascupreel"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/Ys8GMcO.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Gingembre",
+      "commercial": [
+        "Fort Essentials Gingembre"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/aUrbJkg.png"
+      ],
+      "pharmaceuticalForm": "Gélules"
+    },
+    {
+      "dci": "Vitamine B6",
+      "commercial": [
+        "Gingest B6"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/ohrWuM2.png"
+      ],
+      "pharmaceuticalForm": "Solution buvable"
+    },
+    {
+      "dci": "Rhubarbe + figue + tamarin",
+      "commercial": [
+        "Ortis Fruits & fibres"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/8q3C3CE.png",
+        "https://i.imgur.com/U7qzkeB.png"
+      ],
+      "pharmaceuticalForm": "Gommes, Comprimés"
+    },
+    {
+      "dci": "S. Boulardii",
+      "commercial": [
+        "Livsane S. Boulardii"
+      ],
+      "category": "Probiotique",
+      "imageUrls": [
+        "https://i.imgur.com/NIdXNgl.png"
+      ],
+      "pharmaceuticalForm": "Gélules"
+    },
+    {
+      "dci": "Curcumine + boswellia serrata + vitamine D",
+      "commercial": [
+        "Flexofytol"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/a1fP6Gb.png",
+        "https://i.imgur.com/gMYU9XQ.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Comprimés"
+    },
+    {
+      "dci": "HE + extraits végétaux",
+      "commercial": [
+        "Puressentiel  articulation"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/t2Lj2bI.png",
+        "https://i.imgur.com/9BJRZoM.png",
+        "https://i.imgur.com/cD803Cx.png",
+        "https://i.imgur.com/wYcn7te.png"
+      ],
+      "pharmaceuticalForm": "Patch, Baume, Roller, Roller"
+    },
+    {
+      "dci": "Consoude",
+      "commercial": [
+        "Flexagile"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/UhOomm0.png"
+      ],
+      "pharmaceuticalForm": "Crème"
+    },
+    {
+      "dci": "Siméticone",
+      "commercial": [
+        "Infacol"
+      ],
+      "category": "Gastro-intestinal",
+      "imageUrls": [
+        "https://i.imgur.com/ivSyoAh.png"
+      ],
+      "pharmaceuticalForm": "Solution buvable en gouttes"
+    },
+    {
+      "dci": "Terbinafine",
+      "commercial": [
+        "Lamisil"
+      ],
+      "category": "Antifongique",
+      "imageUrls": [
+        "https://i.imgur.com/qP8Ap9p.png",
+        "https://i.imgur.com/wzP4bPD.png",
+        "https://i.imgur.com/9oK5Dp0.png"
+      ],
+      "pharmaceuticalForm": "Crème, Gel, Solution cutanée"
+    },
+    {
+      "dci": "Vitamines",
+      "commercial": [
+        "Nutrof"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/aLsrmrR.png"
+      ],
+      "pharmaceuticalForm": "Capsules"
+    },
+    {
+      "dci": "Hexamidine",
+      "commercial": [
+        "Hexomedine"
+      ],
+      "category": "Antiseptique",
+      "imageUrls": [
+        "https://i.imgur.com/jS4e0aw.png"
+      ],
+      "pharmaceuticalForm": "Solution cutanée"
+    },
+    {
+      "dci": "Parafine liquide",
+      "commercial": [
+        "Hylo Night"
+      ],
+      "category": "Ophtalmologie",
+      "imageUrls": [
+        "https://i.imgur.com/e6gzRqf.png"
+      ],
+      "pharmaceuticalForm": "Pommade ophtalmique"
+    },
+    {
+      "dci": "Latanoprost + timolol",
+      "commercial": [
+        "Xalacom"
+      ],
+      "category": "Ophtalmologie",
+      "imageUrls": [
+        "https://i.imgur.com/LGKfVrt.png"
+      ],
+      "pharmaceuticalForm": "Collyre"
+    },
+    {
+      "dci": "Enzymes + gingembres + artichaut",
+      "commercial": [
+        "Metadigest"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/dJPJcpk.png"
+      ],
+      "pharmaceuticalForm": "Gélules"
+    },
+    {
+      "dci": "Célécoxib",
+      "commercial": [
+        "Celebrex"
+      ],
+      "category": "Anti-inflammatoire (AINS)",
+      "imageUrls": [
+        "https://i.imgur.com/1Zu91Gv.png"
+      ],
+      "pharmaceuticalForm": "Capsules"
+    },
+    {
+      "dci": "Lévodropropizine",
+      "commercial": [
+        "Levotuss"
+      ],
+      "category": "Antitussif",
+      "imageUrls": [
+        "https://i.imgur.com/Eip8bCU.png"
+      ],
+      "pharmaceuticalForm": "Sirop"
+    },
+    {
+      "dci": "Bacitracine + néomycine",
+      "commercial": [
+        "Neobacitracine"
+      ],
+      "category": "Antibiotique",
+      "imageUrls": [
+        "https://i.imgur.com/Kr7dAsi.png"
+      ],
+      "pharmaceuticalForm": "Gouttes"
+    },
+    {
+      "dci": "Eau de mer stérile",
+      "commercial": [
+        "Physiomer"
+      ],
+      "category": "Décongestionnant nasal",
+      "imageUrls": [
+        "https://i.imgur.com/KHsAgYh.png",
+        "https://i.imgur.com/yV2ieOa.png",
+        "https://i.imgur.com/wBNsbRT.png",
+        "https://i.imgur.com/DIgwrom.png",
+        "https://i.imgur.com/akcAARX.png",
+        "https://i.imgur.com/kbT6cjg.png"
+      ],
+      "pharmaceuticalForm": "Spray nasal, Spray nasal, Spray nasal, Spray nasal, Spray nasal, Spray nasal"
+    },
+    {
+      "dci": "Povidone iodée",
+      "commercial": [
+        "Iso-Betadine"
+      ],
+      "category": "Antiseptique",
+      "imageUrls": [
+        "https://i.imgur.com/QI2n6MI.png",
+        "https://i.imgur.com/lhmQicj.png",
+        "https://i.imgur.com/KCgOlqR.png",
+        "https://i.imgur.com/FXp8FGk.png",
+        "https://i.imgur.com/gMKqBys.png",
+        "https://i.imgur.com/RrffOx7.png",
+        "https://i.imgur.com/z3laD2O.png",
+        "https://i.imgur.com/bTndReL.png",
+        "https://i.imgur.com/PmhYKHi.png",
+        "https://i.imgur.com/Kkqj4GP.png",
+        "https://i.imgur.com/omE2EzO.png"
+      ],
+      "pharmaceuticalForm": "Solution vaginale, Solution cutanée, Solution cutanée, Savon, Solution buvable, Gel, Solution cutanée, Solution cutanée, Solution cutanée, Savon, Solution ophtalmique"
+    },
+    {
+      "dci": "Miconazole",
+      "commercial": [
+        "Daktarin"
+      ],
+      "category": "Antifongique",
+      "imageUrls": [
+        "https://i.imgur.com/j7zbF3W.png",
+        "https://i.imgur.com/4FAdqyW.png",
+        "https://i.imgur.com/rBmAtrN.png",
+        "https://i.imgur.com/bMkIviV.png",
+        "https://i.imgur.com/s8lOfPD.png"
+      ],
+      "pharmaceuticalForm": "Crème, Spray, Poudre cutanée, Gel oral, Solution cutanée"
+    },
+    {
+      "dci": "Ciclopirox",
+      "commercial": [
+        "Myconail"
+      ],
+      "category": "Antifongique",
+      "imageUrls": [
+        "https://i.imgur.com/zDhHAzl.png"
+      ],
+      "pharmaceuticalForm": "Vernis"
+    },
+    {
+      "dci": "Aesculus hippocastanum",
+      "commercial": [
+        "Veinofytol"
+      ],
+      "category": "Veinotonique",
+      "imageUrls": [
+        "https://i.imgur.com/nywFCvG.png",
+        "https://i.imgur.com/AIuTJdv.png"
+      ],
+      "pharmaceuticalForm": "Gélules, Comprimés"
+    },
+    {
+      "dci": "Pelargonium sidoides",
+      "commercial": [
+        "Kaloban"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/zLFJOTY.png",
+        "https://i.imgur.com/dXpf7K2.png",
+        "https://i.imgur.com/4poXTu9.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Solution buvable en gouttes, Sirop"
+    },
+    {
+      "dci": "Eucalyptus + camphre + lévomenthol + térébenthine + thymol",
+      "commercial": [
+        "Vicks vaporub"
+      ],
+      "category": "ORL",
+      "imageUrls": [
+        "https://i.imgur.com/lsYlcA0.png"
+      ],
+      "pharmaceuticalForm": "Pommade"
+    },
+    {
+      "dci": "Noscapine",
+      "commercial": [
+        "Nosca-méréprine"
+      ],
+      "category": "Antitussif",
+      "imageUrls": [
+        "https://i.imgur.com/60nhf47.png",
+        "https://i.imgur.com/PE1qzoZ.png"
+      ],
+      "pharmaceuticalForm": "Comprimés, Sirop"
+    },
+    {
+      "dci": "Carbocistéine",
+      "commercial": [
+        "Muco Rhinathiol"
+      ],
+      "category": "Antitussif",
+      "imageUrls": [
+        "https://i.imgur.com/sdCwuMd.png",
+        "https://i.imgur.com/b9gRf10.png"
+      ],
+      "pharmaceuticalForm": "Sirop, Sirop"
+    },
+    {
+      "dci": "Souches actives",
+      "commercial": [
+        "Stodal"
+      ],
+      "category": "Antitussif",
+      "imageUrls": [
+        "https://i.imgur.com/SNYMAhR.png",
+        "https://i.imgur.com/OFDMvqq.png"
+      ],
+      "pharmaceuticalForm": "Sirop, Sirop"
+    },
+    {
+      "dci": "Tramazoline",
+      "commercial": [
+        "Rhinospray"
+      ],
+      "category": "Décongestionnant nasal",
+      "imageUrls": [
+        "https://i.imgur.com/hEitkOw.png",
+        "https://i.imgur.com/HlUWlFe.png"
+      ],
+      "pharmaceuticalForm": "Spray nasal, Spray nasal"
+    },
+    {
+      "dci": "Eucalyptus",
+      "commercial": [
+        "Eucalyplus"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/EV3Uli8.png"
+      ],
+      "pharmaceuticalForm": "Spray nasal"
+    },
+    {
+      "dci": "Lidocaine + amylmétacrésol + dichlorobenzylalcool",
+      "commercial": [
+        "Collutabs"
+      ],
+      "category": "Antiseptique",
+      "imageUrls": [
+        "https://i.imgur.com/v8s4uCH.png",
+        "https://i.imgur.com/gYAMfFT.png",
+        "https://i.imgur.com/gLOD7iK.png"
+      ],
+      "pharmaceuticalForm": "Pastilles, Pastilles, Pastilles"
+    },
+    {
+      "dci": "Miel + menthol + eucalyptus",
+      "commercial": [
+        "Collunatura"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/UCvmcrP.png"
+      ],
+      "pharmaceuticalForm": "Pastilles"
+    },
+    {
+      "dci": "Complexe végétal",
+      "commercial": [
+        "Salvigorge"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/ep0tO9i.png"
+      ],
+      "pharmaceuticalForm": "Spray buccal"
+    },
+    {
+      "dci": "Chlorhexidine + benzthonium",
+      "commercial": [
+        "Neo golaseptine spray"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/8KzFkz4.png"
+      ],
+      "pharmaceuticalForm": "Spray buccal"
+    },
+    {
+      "dci": "Menthe + lavande + thym + eucalyptus + anis étoilé + gaulthérie",
+      "commercial": [
+        "Pranarom"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/66WaU0B.png"
+      ],
+      "pharmaceuticalForm": "Spray buccal"
+    },
+    {
+      "dci": "Thym + vitamine C",
+      "commercial": [
+        "Thymotabs"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/B666Euc.png",
+        "https://i.imgur.com/nrOxtTG.png"
+      ],
+      "pharmaceuticalForm": "Pastilles, Pastilles"
+    },
+    {
+      "dci": "Complexe végétal",
+      "commercial": [
+        "Plantigom"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/oSUTnSW.png"
+      ],
+      "pharmaceuticalForm": "Gommes"
+    },
+    {
+      "dci": "Chlorhexidine + lidocaïne",
+      "commercial": [
+        "Medica"
+      ],
+      "category": "Antiseptique",
+      "imageUrls": [
+        "https://i.imgur.com/SEPXTHP.png",
+        "https://i.imgur.com/AywbMza.png",
+        "https://i.imgur.com/iYk3hF3.png",
+        "https://i.imgur.com/5jwuRIZ.png",
+        "https://i.imgur.com/8xSDSox.png",
+        "https://i.imgur.com/atoufXU.png"
+      ],
+      "pharmaceuticalForm": "Pastilles, Pastilles, Pastilles, Pastilles, Spray buccal, Spray buccal"
+    },
+    {
+      "dci": "Ectoin",
+      "commercial": [
+        "Medicavox"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/L0bOzLZ.png"
+      ],
+      "pharmaceuticalForm": "Pastilles"
+    },
+    {
+      "dci": "Gelée royale + miel + propolis + pollen",
+      "commercial": [
+        "Forté royal"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/9lGGOYW.png"
+      ],
+      "pharmaceuticalForm": "Pastilles"
+    },
+    {
+      "dci": "Nicotine",
+      "commercial": [
+        "Nicorette"
+      ],
+      "category": "Tabac",
+      "imageUrls": [
+        "https://i.imgur.com/NNycJ84.png",
+        "https://i.imgur.com/fTxSvFF.png",
+        "https://i.imgur.com/oSTkaPq.png",
+        "https://i.imgur.com/of1lN9O.png"
+      ],
+      "pharmaceuticalForm": "Gommes, Comprimés, Spray buccal, Patch"
+    },
+    {
+      "dci": "Nicotine",
+      "commercial": [
+        "Niquitin clear"
+      ],
+      "category": "Tabac",
+      "imageUrls": [
+        "https://i.imgur.com/H8fvRvz.png"
+      ],
+      "pharmaceuticalForm": "Patch"
+    },
+    {
+      "dci": "Complexe",
+      "commercial": [
+        "Sedatif PC"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/zhfyn24.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Lavandula angustifolia",
+      "commercial": [
+        "Laseaxan"
+      ],
+      "category": "Hypnotique",
+      "imageUrls": [
+        "https://i.imgur.com/tVLXqCB.png"
+      ],
+      "pharmaceuticalForm": "Capsule"
+    },
+    {
+      "dci": "Vitamine",
+      "commercial": [
+        "Nervoheel"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/YhXv2NR.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Vitamines",
+      "commercial": [
+        "Neurexan"
+      ],
+      "category": "Phytothérapie et homéopathie",
+      "imageUrls": [
+        "https://i.imgur.com/iDMmq6b.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Antiparasitaire chiens",
+      "commercial": [
+        "Frontpro"
+      ],
+      "category": "Vétérinaire",
+      "imageUrls": [
+        "https://i.imgur.com/JFC2664.png"
+      ],
+      "pharmaceuticalForm": "Comprimés à croquer"
+    },
+    {
+      "dci": "Puces et tiques",
+      "commercial": [
+        "NexGard"
+      ],
+      "category": "Vétérinaire",
+      "imageUrls": [
+        "https://i.imgur.com/ROepy4d.png"
+      ],
+      "pharmaceuticalForm": "Comprimés"
+    },
+    {
+      "dci": "Vermifuge chiens - chats",
+      "commercial": [
+        "Drontal"
+      ],
+      "category": "Vétérinaire",
+      "imageUrls": [
+        "https://i.imgur.com/92Xc3Tg.png",
+        "https://i.imgur.com/QLmw3Vn.png",
+        "https://i.imgur.com/nqqmVI3.png",
+        "https://i.imgur.com/FojWyX6.png"
+      ],
+      "pharmaceuticalForm": "Solution buvable, Comprimés, Comprimés, Comprimés"
+    },
+    {
+      "dci": "Antiparasitaire chats - chiens",
+      "commercial": [
+        "AdTab"
+      ],
+      "category": "Vétérinaire",
+      "imageUrls": [
+        "https://i.imgur.com/kHJ4OGw.png"
+      ],
+      "pharmaceuticalForm": "Comprimés à croquer"
+    },
+    {
+      "dci": "Antiparasitaire chiens",
+      "commercial": [
+        "Advantix"
+      ],
+      "category": "Vétérinaire",
+      "imageUrls": [
+        "https://i.imgur.com/nlIGpcn.png"
+      ],
+      "pharmaceuticalForm": "Solution cutanée"
+    },
+    {
+      "dci": "Antipuces chiens - chats - lapins",
+      "commercial": [
+        "Advantage"
+      ],
+      "category": "Vétérinaire",
+      "imageUrls": [
+        "https://i.imgur.com/5Gtdt6z.png"
+      ],
+      "pharmaceuticalForm": "Solution cutanée"
+    },
+    {
+      "dci": "Antiparasitaire chiens - chats",
+      "commercial": [
+        "Frontline"
+      ],
+      "category": "Vétérinaire",
+      "imageUrls": [
+        "https://i.imgur.com/rjFXf3w.png",
+        "https://i.imgur.com/Dz0pj3T.png",
+        "https://i.imgur.com/wXZNXPD.png",
+        "https://i.imgur.com/DW87u8d.png",
+        "https://i.imgur.com/JkRhP66.png"
+      ],
+      "pharmaceuticalForm": "Solution cutanée, Solution cutanée, Solution cutanée, Spray, Spray"
+    },
+    {
+      "dci": "Antiparasitaire chiens - chats",
+      "commercial": [
+        "Stronghold"
+      ],
+      "category": "Vétérinaire",
+      "imageUrls": [
+        "https://i.imgur.com/GznV91N.png"
+      ],
+      "pharmaceuticalForm": "Solution cutanée"
+    },
+    {
+      "dci": "Antiparasitaire chiens - chats - furets",
+      "commercial": [
+        "Advocate"
+      ],
+      "category": "Vitamines et suppléments",
+      "imageUrls": [
+        "https://i.imgur.com/BaJLboe.png",
+        "https://i.imgur.com/8Yuod06.png"
+      ],
+      "pharmaceuticalForm": "Solution cutanée, Solution cutanée"
+    },
+    {
+      "dci": "Antiparasitaire",
+      "commercial": [
+        "Pistal"
+      ],
+      "category": "Vétérinaire",
+      "imageUrls": [
+        "https://i.imgur.com/34P4GAf.png"
+      ],
+      "pharmaceuticalForm": "Spray"
+    }
+  ],
+  "therapeuticClasses": {
+    "Antalgique": "#A78BFA",
+    "Antalgique opioïde": "#8B5CF6",
+    "Anti-goutteux": "#F87171",
+    "Anti-inflammatoire (AINS)": "#EF4444",
+    "Antiagrégant plaquettaire": "#EF4444",
+    "Antiallergique": "#8B5CF6",
+    "Antiarythmique": "#FB923C",
+    "Antibiotique": "#10B981",
+    "Anticoagulant": "#DC2626",
+    "Antidiabétique": "#EC4899",
+    "Antidépresseur": "#4F46E5",
+    "Antifongique": "#059669",
+    "Antihypertenseur": "#F97316",
+    "Antihémorragique": "#DC2626",
+    "Antiparasitaire": "#6EE7B7",
+    "Antiparkinsonien": "#60A5FA",
+    "Antipsychotique": "#2563EB",
+    "Antiseptique": "#34D399",
+    "Antispasmodique": "#FBBF24",
+    "Antitussif": "#5EEAD4",
+    "Antivertigineux": "#93C5FD",
+    "Antiviral": "#047857",
+    "Antiépileptique": "#3B82F6",
+    "Anxiolytique": "#6366F1",
+    "Bronchodilatateur": "#14B8A6",
+    "Cicatrisant et soin cutané": "#A3E635",
+    "Corticoïde": "#0D9488",
+    "Décongestionnant nasal": "#99F6E4",
+    "Enzymes digestives": "#FDE68A",
+    "Gastro-intestinal": "#F59E0B",
+    "Gynécologie": "#BE185D",
+    "Hormone thyroïdienne": "#DB2777",
+    "Hormonothérapie": "#F472B6",
+    "Hypnotique": "#1D4ED8",
+    "Hypolipémiant": "#FBBF24",
+    "Immunomodulateur": "#A78BFA",
+    "Immunosuppresseur": "#7C3AED",
+    "Laxatif": "#D97706",
+    "Mucolytique": "#2DD4BF",
+    "Myorelaxant": "#7DD3FC",
+    "ORL": "#0891B2",
+    "Ophtalmologie": "#06B6D4",
+    "Phytothérapie et homéopathie": "#22D3EE",
+    "Probiotique": "#FCD34D",
+    "Psychostimulant": "#DBEAFE",
+    "Soin bucco-dentaire": "#65A30D",
+    "Traitement de l'ostéoporose": "#FCA5A5",
+    "Urologie": "#0E7490",
+    "Vaccin": "#C4B5FD",
+    "Vasodilatateur": "#FCD34D",
+    "Veinotonique": "#4ADE80",
+    "Vitamines et suppléments": "#84CC16",
+    "Vétérinaire": "#78350F",
+    "Matériel médical": "#9CA3AF",
+    "Diurétique": "#0EA5E9",
+    "Tabac": "#000000"
+  },
+  "pharmaceuticalForms": [
+    "Bain de bouche",
+    "Capsule",
+    "Collyre",
+    "Comprimé",
+    "Comprimés à croquer",
+    "Crème",
+    "Gel",
+    "Globules",
+    "Gouttes",
+    "Gouttes auriculaires",
+    "Gouttes auriculaires et collyre",
+    "Gouttes nasal",
+    "Gélule",
+    "Lyophilisat",
+    "Pastille",
+    "Patch",
+    "Pommade",
+    "Pommade nasal",
+    "Pommade ophtalmique",
+    "Poudre pour inhalation",
+    "Poudre pour sirop",
+    "Poudre pour solution",
+    "Poudre pour solution injectable",
+    "Poudre pour suspension",
+    "Poudre pour suspension buvable",
+    "Poudre pour suspension injectable",
+    "Sachet",
+    "Shampoing",
+    "Sirop",
+    "Solution",
+    "Solution buvable",
+    "Solution buvable en gouttes",
+    "Solution cutanée",
+    "Solution injectable",
+    "Solution nasal",
+    "Solution pour inhalation",
+    "Solution pour inhalation/nébulisation",
+    "Solution pour nébulisation",
+    "Solution pour nébulisation/inhalation",
+    "Solution rectale",
+    "Spray",
+    "Spray buccal",
+    "Spray nasal",
+    "Suppositoire",
+    "Suspension",
+    "Suspension buvable",
+    "Suspension injectable",
+    "Suspension pour inhalation"
+  ],
+  "conseilsCategories": [
+    "Système respiratoire",
+    "Douleurs & Fièvre",
+    "Système digestif",
+    "Bouche & Peau"
+  ],
+  "conseilsOfficine": [
+    {
+      "id": "rhume",
+      "nom": "Rhume",
+      "categorie": "Système respiratoire",
+      "emoji": "🤧",
+      "couleur": "#3B82F6",
+      "description": "Écoulement nasal, congestion",
+      "specialites": [],
+      "informations": "",
+      "documents": []
+    },
+    {
+      "id": "toux",
+      "nom": "Toux",
+      "categorie": "Système respiratoire",
+      "emoji": "😷",
+      "couleur": "#06B6D4",
+      "description": "Toux sèche ou grasse",
+      "specialites": [],
+      "informations": "",
+      "documents": []
+    },
+    {
+      "id": "gorge",
+      "nom": "Maux de gorge",
+      "categorie": "Système respiratoire",
+      "emoji": "🤒",
+      "couleur": "#0EA5E9",
+      "description": "Irritation, douleur",
+      "specialites": [],
+      "informations": "",
+      "documents": []
+    },
+    {
+      "id": "tete",
+      "nom": "Maux de tête",
+      "categorie": "Douleurs & Fièvre",
+      "emoji": "🤕",
+      "couleur": "#EF4444",
+      "description": "Céphalées, migraines",
+      "specialites": [],
+      "informations": "",
+      "documents": []
+    },
+    {
+      "id": "fievre",
+      "nom": "Fièvre",
+      "categorie": "Douleurs & Fièvre",
+      "emoji": "🌡️",
+      "couleur": "#F97316",
+      "description": "Température > 38°C",
+      "specialites": [],
+      "informations": "",
+      "documents": []
+    },
+    {
+      "id": "nausees",
+      "nom": "Nausées",
+      "categorie": "Système digestif",
+      "emoji": "🤢",
+      "couleur": "#10B981",
+      "description": "Envie de vomir",
+      "specialites": [],
+      "informations": "",
+      "documents": []
+    },
+    {
+      "id": "estomac",
+      "nom": "Brûlures d'estomac",
+      "categorie": "Système digestif",
+      "emoji": "🔥",
+      "couleur": "#F59E0B",
+      "description": "Reflux gastrique",
+      "specialites": [],
+      "informations": "",
+      "documents": []
+    },
+    {
+      "id": "constipation",
+      "nom": "Constipation",
+      "categorie": "Système digestif",
+      "emoji": "💩",
+      "couleur": "#84CC16",
+      "description": "Difficulté à aller à la selle",
+      "specialites": [],
+      "informations": "",
+      "documents": []
+    },
+    {
+      "id": "diarrhee",
+      "nom": "Diarrhée",
+      "categorie": "Système digestif",
+      "emoji": "🚽",
+      "couleur": "#14B8A6",
+      "description": "Selles liquides",
+      "specialites": [],
+      "informations": "",
+      "documents": []
+    },
+    {
+      "id": "aphte",
+      "nom": "Aphte",
+      "categorie": "Bouche & Peau",
+      "emoji": "😣",
+      "couleur": "#EC4899",
+      "description": "Ulcération buccale",
+      "specialites": [],
+      "informations": "",
+      "documents": []
+    },
+    {
+      "id": "herpes",
+      "nom": "Boutons de fièvre",
+      "categorie": "Bouche & Peau",
+      "emoji": "😖",
+      "couleur": "#F43F5E",
+      "description": "Herpès labial",
+      "specialites": [],
+      "informations": "",
+      "documents": []
+    },
+    {
+      "id": "ampoules",
+      "nom": "Cloche aux pieds",
+      "categorie": "Bouche & Peau",
+      "emoji": "🦶",
+      "couleur": "#8B5CF6",
+      "description": "Ampoules",
+      "specialites": [],
+      "informations": "",
+      "documents": []
+    },
+    {
+      "id": "piercing",
+      "nom": "Piercing aux oreilles",
+      "categorie": "Bouche & Peau",
+      "emoji": "👂",
+      "couleur": "#A855F7",
+      "description": "Soins post-piercing",
+      "specialites": [],
+      "informations": "",
+      "documents": []
+    }
+  ],
+  "version": "3.6",
+  "lastUpdate": "2026-01-28",
+  "docCategories": {}
+}
